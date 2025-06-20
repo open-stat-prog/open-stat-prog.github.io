@@ -1,0 +1,21 @@
+[
+  {
+    "listing": "/team.html",
+    "items": [
+      "/team/3_Andrea.html",
+      "/team/4_Isabelle.html",
+      "/team/2_Kyle.html",
+      "/team/1_Laura.html",
+      "/team/5_Paolo.html"
+    ]
+  },
+  {
+    "listing": "/tutorials.html",
+    "items": [
+      "/tutorials/1_tutorial_softwaresetup.html",
+      "/tutorials/2_tutorial_firststeps.html",
+      "/tutorials/3_tutorial_datatypes.html",
+      "/tutorials/4_tutorial_workflow.html"
+    ]
+  }
+]

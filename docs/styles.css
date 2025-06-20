@@ -1,0 +1,7 @@
+/* css styles */
+
+/* Resize the navbar logo */
+.navbar-brand img {
+  height: 100px; /* or your preferred size */
+  width: auto;
+}
