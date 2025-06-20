@@ -1,0 +1,9 @@
+---
+title: "Kyle Lang"
+subtitle: ""
+image: "/images/kyle.jpg"
+---
+
+Lead developer
+
+<a href = "https://www.uu.nl/staff/KMLang" class = "button btn btn-outline-primary">Profile page</a>

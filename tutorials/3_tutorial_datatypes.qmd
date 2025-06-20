@@ -1,0 +1,8 @@
+---
+title: "3 Tutorial Data Types"
+subtitle: "Vectors, data frames and more"
+author: "Paolo Colussi"
+image: "/images/Grumpy-Cat.webp"
+---
+
+<a href = "/placeholder/placeholder.qmd" class = "button btn btn-outline-primary">Tutorial</a>

@@ -1,0 +1,10 @@
+---
+title: "Team"
+listing: 
+  contents: team
+  type: grid
+  categories: true
+  sort: "title asc"
+---
+
+## Meet the team behind this project

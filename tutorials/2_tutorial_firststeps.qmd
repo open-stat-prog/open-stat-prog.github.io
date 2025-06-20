@@ -1,0 +1,8 @@
+---
+title: "2 Tutorial First steps"
+subtitle: "First steps of working with R & Rstudio"
+author: "Kyle Lang"
+image: "/images/Grumpy-Cat.webp"
+---
+
+<a href = "/placeholder/placeholder.qmd" class = "button btn btn-outline-primary">Lecture Materials</a>

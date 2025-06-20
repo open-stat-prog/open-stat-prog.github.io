@@ -1,0 +1,27 @@
+project:
+  type: website
+website:
+  title: "Open-Stat-Prog"
+  navbar: 
+    background: primary
+    foreground: dark
+    left:
+      - href: index.qmd
+        text: Home
+      - team.qmd
+      - tutorials.qmd
+  page-footer:
+    left: |
+      [![](/images/UU_logo_2021_EN_BLACK.png){fig-alt="UU" width=200px}](https://uu.nl) 
+    right: 
+      - text: 2025, Open-Stat-Prog
+      - icon: github
+        href: https://github.com/open-stat-prog
+    background: primary
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: true
+editor: visual
+

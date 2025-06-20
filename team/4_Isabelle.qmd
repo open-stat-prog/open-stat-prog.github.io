@@ -1,0 +1,9 @@
+---
+title: "Isabelle van der Vegt"
+subtitle: ""
+image: "/images/Isabelle.jpeg"
+---
+
+Coordinator Sociology
+
+<a href = "https://www.uu.nl/medewerkers/IWJvanderVegt" class = "button btn btn-outline-primary">Profile page</a>

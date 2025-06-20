@@ -1,0 +1,9 @@
+---
+title: "Andrea Forster"
+subtitle: ""
+image: "/images/Andrea.jpg"
+---
+
+Developer Sociology
+
+<a href = "https://www.uu.nl/medewerkers/AGForster" class = "button btn btn-outline-primary">Profile page</a>

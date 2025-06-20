@@ -1,0 +1,7 @@
+---
+title: "Open Statistical Pogramming Tutorials"
+---
+
+On this website you can find open-source R tutorials on topics ranging from "How to install R?" up to topics such as "How to write a function in R?" and beyond. The tutorials you can find on this website are gradually increasing in difficulty and are used in several courses taught by the Methods & Statistics and Sociology Departments of the Faculty of Social and Behavioral Sciences at Utrecht University. The tutorials are actively maintained for these courses.
+
+Feel free to make use of these tutorials to learn about statistical programming in R, or to integrate them into your courses as an instructor. We also welcome developers to contribute new tutorials.

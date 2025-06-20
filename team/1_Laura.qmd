@@ -1,0 +1,9 @@
+---
+title: "Laura Boeschoten"
+subtitle: ""
+image: "/images/Laura Boeschoten-018.jpg"
+---
+
+Project lead
+
+<a href = "https://www.uu.nl/medewerkers/LBoeschoten" class = "button btn btn-outline-primary">Profile page</a>

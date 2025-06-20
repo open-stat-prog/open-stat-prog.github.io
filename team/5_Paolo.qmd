@@ -1,0 +1,9 @@
+---
+title: "Paolo Colussi"
+subtitle: ""
+image: "/images/paolo.jpeg"
+---
+
+Developer
+
+<a href = "" class = "button btn btn-outline-primary">Profile page</a>
