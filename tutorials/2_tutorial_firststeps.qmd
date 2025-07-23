@@ -2,7 +2,7 @@
 title: "2 Tutorial First steps"
 subtitle: "First steps of working with R & Rstudio"
 author: "Kyle Lang"
-image: "/images/Grumpy-Cat.webp"
+image: "/images/tutorial2.jpg"
 ---
 
 <script>
