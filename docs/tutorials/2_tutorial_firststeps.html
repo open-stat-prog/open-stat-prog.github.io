@@ -118,7 +118,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#redirecting-to-tutorial" id="toc-redirecting-to-tutorial" class="nav-link active" data-scroll-target="#redirecting-to-tutorial">Redirecting to tutorial…</a></li>
+  <li><a href="#redirecting" id="toc-redirecting" class="nav-link active" data-scroll-target="#redirecting">Redirecting…</a></li>
   </ul>
 </nav>
     </div>
@@ -152,19 +152,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script>
-// Prevent infinite loops and only redirect once
-if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
-    sessionStorage.setItem('redirected', 'true');
-    setTimeout(() => {
-        window.location.replace("https://www.openstatprog.com/first-steps/");
-    }, 100);
-}
+window.location.href = "https://www.openstatprog.com/first-steps/";
 </script>
-<noscript>
-<meta http-equiv="refresh" content="2; url=https://www.openstatprog.com/first-steps/">
-</noscript>
-<section id="redirecting-to-tutorial" class="level2">
-<h2 class="anchored" data-anchor-id="redirecting-to-tutorial">Redirecting to tutorial…</h2>
+<meta http-equiv="refresh" content="0; url=https://www.openstatprog.com/first-steps/">
+<section id="redirecting" class="level2">
+<h2 class="anchored" data-anchor-id="redirecting">Redirecting…</h2>
 <p>If you are not automatically redirected, <a href="https://www.openstatprog.com/first-steps/">click here</a>.</p>
 
 
