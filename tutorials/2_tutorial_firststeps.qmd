@@ -6,14 +6,24 @@ image: "/images/tutorial2.jpg"
 ---
 
 <script>
-window.location.href = "https://www.openstatprog.com/first-steps/";
+if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
+    sessionStorage.setItem('redirected', 'true');
+    setTimeout(() => {
+        window.location.replace("https://www.openstatprog.com/first-steps/");
+    }, 100);
+}
 </script>
 
-<meta http-equiv="refresh" content="0; url=https://www.openstatprog.com/first-steps/">
+<noscript>
+<meta http-equiv="refresh" content="2; url=https://www.openstatprog.com/first-steps/">
+</noscript>
 
 Welcome to the First Steps module. In this module, you will take the first steps in your R programming journey by learning the basics of R usage.
 
 If you are not automatically redirected, [click here](https://www.openstatprog.com/first-steps/).
+
+
+
 
 
 

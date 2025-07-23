@@ -8,7 +8,7 @@
 
 <meta name="author" content="Kyle Lang">
 
-<title>2 Tutorial First steps – Open-Stat-Prog</title>
+<title>2 First steps – Open-Stat-Prog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -113,21 +113,15 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#redirecting" id="toc-redirecting" class="nav-link active" data-scroll-target="#redirecting">Redirecting…</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">2 Tutorial First steps</h1>
+<h1 class="title">2 First steps</h1>
 <p class="subtitle lead">First steps of working with R &amp; Rstudio</p>
 </div>
 
@@ -152,15 +146,20 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script>
-window.location.href = "https://www.openstatprog.com/first-steps/";
+if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
+    sessionStorage.setItem('redirected', 'true');
+    setTimeout(() => {
+        window.location.replace("https://www.openstatprog.com/first-steps/");
+    }, 100);
+}
 </script>
-<meta http-equiv="refresh" content="0; url=https://www.openstatprog.com/first-steps/">
-<section id="redirecting" class="level2">
-<h2 class="anchored" data-anchor-id="redirecting">Redirecting…</h2>
+<noscript>
+<meta http-equiv="refresh" content="2; url=https://www.openstatprog.com/first-steps/">
+</noscript>
+<p>Welcome to the First Steps module. In this module, you will take the first steps in your R programming journey by learning the basics of R usage.</p>
 <p>If you are not automatically redirected, <a href="https://www.openstatprog.com/first-steps/">click here</a>.</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

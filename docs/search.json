@@ -67,7 +67,7 @@
     "href": "tutorials.html",
     "title": "Tutorials",
     "section": "",
-    "text": "1 Tutorial Software setup\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n2 Tutorial First steps\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\n\n\n\n\n\n\n\n3 Tutorial Data Types\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n4 Tutorial the R Workflow\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\nNo matching items"
+    "text": "1 Tutorial Software setup\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n2 First steps\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\n\n\n\n\n\n\n\n3 Tutorial Data Types\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n4 Tutorial the R Workflow\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "tutorials/3_tutorial_datatypes.html",
@@ -79,9 +79,9 @@
   {
     "objectID": "tutorials/2_tutorial_firststeps.html",
     "href": "tutorials/2_tutorial_firststeps.html",
-    "title": "2 Tutorial First steps",
+    "title": "2 First steps",
     "section": "",
-    "text": "Lecture Materials"
+    "text": "Welcome to the First Steps module. In this module, you will take the first steps in your R programming journey by learning the basics of R usage.\nIf you are not automatically redirected, click here."
   },
   {
     "objectID": "tutorials/2_tutorial_firststeps.html#redirecting",
