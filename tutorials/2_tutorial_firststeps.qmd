@@ -6,20 +6,12 @@ image: "/images/Grumpy-Cat.webp"
 ---
 
 <script>
-// Prevent infinite loops and only redirect once
-if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
-    sessionStorage.setItem('redirected', 'true');
-    setTimeout(() => {
-        window.location.replace("https://www.openstatprog.com/first-steps/");
-    }, 100);
-}
+window.location.href = "https://www.openstatprog.com/first-steps/";
 </script>
 
-<noscript>
-<meta http-equiv="refresh" content="2; url=https://www.openstatprog.com/first-steps/">
-</noscript>
+<meta http-equiv="refresh" content="0; url=https://www.openstatprog.com/first-steps/">
 
-## Redirecting to tutorial...
+## Redirecting...
 
 If you are not automatically redirected, [click here](https://www.openstatprog.com/first-steps/).
 
