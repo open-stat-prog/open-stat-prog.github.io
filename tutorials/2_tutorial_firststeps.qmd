@@ -1,5 +1,5 @@
 ---
-title: "2 Tutorial First steps"
+title: "2 First steps"
 subtitle: "First steps of working with R & Rstudio"
 author: "Kyle Lang"
 image: "/images/tutorial2.jpg"
@@ -11,7 +11,7 @@ window.location.href = "https://www.openstatprog.com/first-steps/";
 
 <meta http-equiv="refresh" content="0; url=https://www.openstatprog.com/first-steps/">
 
-## Redirecting...
+Welcome to the First Steps module. In this module, you will take the first steps in your R programming journey by learning the basics of R usage.
 
 If you are not automatically redirected, [click here](https://www.openstatprog.com/first-steps/).
 
