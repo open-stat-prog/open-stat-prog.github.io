@@ -5,4 +5,24 @@ author: "Kyle Lang"
 image: "/images/Grumpy-Cat.webp"
 ---
 
-<a href = "/placeholder/placeholder.qmd" class = "button btn btn-outline-primary">Lecture Materials</a>
+<script>
+// Prevent infinite loops and only redirect once
+if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
+    sessionStorage.setItem('redirected', 'true');
+    setTimeout(() => {
+        window.location.replace("https://www.openstatprog.com/first-steps/");
+    }, 100);
+}
+</script>
+
+<noscript>
+<meta http-equiv="refresh" content="2; url=https://www.openstatprog.com/first-steps/">
+</noscript>
+
+## Redirecting to tutorial...
+
+If you are not automatically redirected, [click here](https://www.openstatprog.com/first-steps/).
+
+
+
+
