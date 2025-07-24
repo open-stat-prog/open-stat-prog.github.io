@@ -9,9 +9,9 @@
   {
     "objectID": "tutorials/1_tutorial_softwaresetup.html",
     "href": "tutorials/1_tutorial_softwaresetup.html",
-    "title": "1 Tutorial Software setup",
+    "title": "1 Software setup",
     "section": "",
-    "text": "This tutorial covers the very first steps you need to perform in order to start working with R and Rstudio. We cover how to install both programs and give you a tour of Rstudio and provide you with some recommendations for settings.\nLecture Materials"
+    "text": "This tutorial covers the very first steps you need to perform in order to start working with R and Rstudio. We cover how to install both programs and give you a tour of RStudio and provide you with some recommendations for settings.\nIf you are not automatically redirected, click here."
   },
   {
     "objectID": "tutorials/4_tutorial_workflow.html",
@@ -67,7 +67,7 @@
     "href": "tutorials.html",
     "title": "Tutorials",
     "section": "",
-    "text": "1 Tutorial Software setup\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n2 First steps\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\n\n\n\n\n\n\n\n3 Tutorial Data Types\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n4 Tutorial the R Workflow\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\nNo matching items"
+    "text": "1 Software setup\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n2 First steps\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\n\n\n\n\n\n\n\n3 Tutorial Data Types\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n4 Tutorial the R Workflow\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "tutorials/3_tutorial_datatypes.html",
