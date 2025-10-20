@@ -1,0 +1,22 @@
+---
+title: "4 Reproducible reporting"
+author: "Laura Boeschoten"
+image: "/images/quarto.png"
+---
+
+<script>
+if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
+    sessionStorage.setItem('redirected', 'true');
+    setTimeout(() => {
+        window.location.replace("https://www.openstatprog.com/reproducible-reporting/");
+    }, 100);
+}
+</script>
+
+<noscript>
+<meta http-equiv="refresh" content="2; url=https://www.openstatprog.com/reproducible-reporting/">
+</noscript>
+
+In this module, you will learn how to report your work in a reproducible way using Quarto.
+
+If you are not automatically redirected, [click here](https://www.openstatprog.com/reproducible-reporting/).
