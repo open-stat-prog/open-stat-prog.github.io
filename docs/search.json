@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "tutorials.html",
-    "href": "tutorials.html",
-    "title": "Tutorials",
+    "objectID": "placeholder/placeholder.html",
+    "href": "placeholder/placeholder.html",
+    "title": "Open-Stat-Prog",
     "section": "",
-    "text": "1 Software setup\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2 First steps\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3 Data Types\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "tutorials/4_reproducible_reporting.html",
+    "href": "tutorials/4_reproducible_reporting.html",
+    "title": "4 Reproducible reporting",
+    "section": "",
+    "text": "In this module, you will learn how to report your work in a reproducible way using Quarto.\nIf you are not automatically redirected, click here."
   },
   {
     "objectID": "tutorials/2_first_steps.html",
@@ -14,11 +21,11 @@
     "text": "In this module, you will take the first steps in your R programming journey by learning the basics of R usage.\nIf you are not automatically redirected, click here."
   },
   {
-    "objectID": "team/4_Isabelle.html",
-    "href": "team/4_Isabelle.html",
-    "title": "Isabelle van der Vegt",
+    "objectID": "team/5_Paolo.html",
+    "href": "team/5_Paolo.html",
+    "title": "Paolo Colussi",
     "section": "",
-    "text": "Coordinator Sociology\nProfile page"
+    "text": "Developer\nProfile page"
   },
   {
     "objectID": "team/2_Kyle.html",
@@ -28,11 +35,11 @@
     "text": "Lead developer\nProfile page"
   },
   {
-    "objectID": "placeholder/placeholder.html",
-    "href": "placeholder/placeholder.html",
-    "title": "Open-Stat-Prog",
+    "objectID": "team/4_Isabelle.html",
+    "href": "team/4_Isabelle.html",
+    "title": "Isabelle van der Vegt",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "text": "Coordinator Sociology\nProfile page"
   },
   {
     "objectID": "index.html",
@@ -56,11 +63,11 @@
     "text": "Developer Sociology\nProfile page"
   },
   {
-    "objectID": "team/5_Paolo.html",
-    "href": "team/5_Paolo.html",
-    "title": "Paolo Colussi",
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
+    "title": "Tutorials",
     "section": "",
-    "text": "Developer\nProfile page"
+    "text": "1 Software setup\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n2 First steps\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\n\n\n\n\n\n\n\n3 Data Types\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n4 Reproducible reporting\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "tutorials/1_software_setup.html",
