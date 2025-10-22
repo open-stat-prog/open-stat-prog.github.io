@@ -1,5 +1,15 @@
 [
   {
+    "listing": "/tutorials.html",
+    "items": [
+      "/tutorials/1_software_setup.html",
+      "/tutorials/2_first_steps.html",
+      "/tutorials/3_data_types.html",
+      "/tutorials/4_reproducible_reporting.html",
+      "/tutorials/5_basic_visualization.html"
+    ]
+  },
+  {
     "listing": "/team.html",
     "items": [
       "/team/3_Andrea.html",
@@ -7,15 +17,6 @@
       "/team/2_Kyle.html",
       "/team/1_Laura.html",
       "/team/5_Paolo.html"
-    ]
-  },
-  {
-    "listing": "/tutorials.html",
-    "items": [
-      "/tutorials/1_software_setup.html",
-      "/tutorials/2_first_steps.html",
-      "/tutorials/3_data_types.html",
-      "/tutorials/4_reproducible_reporting.html"
     ]
   }
 ]
