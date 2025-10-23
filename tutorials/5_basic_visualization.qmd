@@ -1,0 +1,22 @@
+---
+title: "5 Basic Visualization"
+author: "Paolo Colussi"
+image: "/images/boxplot_thumbnail.png"
+---
+
+<script>
+if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
+    sessionStorage.setItem('redirected', 'true');
+    setTimeout(() => {
+        window.location.replace("https://www.openstatprog.com/basic-visualization/");
+    }, 100);
+}
+</script>
+
+<noscript>
+<meta http-equiv="refresh" content="2; url=https://www.openstatprog.com/basic-visualization/">
+</noscript>
+
+In this module, you will learn about basic data visualization using Base R graphics.
+
+If you are not automatically redirected, [click here](https://www.openstatprog.com/basic-visualization/).
