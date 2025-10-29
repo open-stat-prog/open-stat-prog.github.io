@@ -4,77 +4,14 @@
     "href": "tutorials.html",
     "title": "Tutorials",
     "section": "",
-    "text": "1 Software setup\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2 First steps\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3 Data Types\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4 Reproducible reporting\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5 Basic Visualization\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "1 Software setup\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2 First steps\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3 Data Types\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4 Reproducible reporting\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5 Basic Visualization\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6 External Data\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "tutorials/4_reproducible_reporting.html",
-    "href": "tutorials/4_reproducible_reporting.html",
-    "title": "4 Reproducible reporting",
+    "objectID": "tutorials/5_basic_visualization.html",
+    "href": "tutorials/5_basic_visualization.html",
+    "title": "5 Basic Visualization",
     "section": "",
-    "text": "In this module, you will learn how to report your work in a reproducible way using Quarto.\nIf you are not automatically redirected, click here."
-  },
-  {
-    "objectID": "tutorials/2_first_steps.html",
-    "href": "tutorials/2_first_steps.html",
-    "title": "2 First steps",
-    "section": "",
-    "text": "In this module, you will take the first steps in your R programming journey by learning the basics of R usage.\nIf you are not automatically redirected, click here."
-  },
-  {
-    "objectID": "team/4_Isabelle.html",
-    "href": "team/4_Isabelle.html",
-    "title": "Isabelle van der Vegt",
-    "section": "",
-    "text": "Coordinator Sociology\nProfile page"
-  },
-  {
-    "objectID": "team/2_Kyle.html",
-    "href": "team/2_Kyle.html",
-    "title": "Kyle Lang",
-    "section": "",
-    "text": "Lead developer\nProfile page"
-  },
-  {
-    "objectID": "placeholder/placeholder.html",
-    "href": "placeholder/placeholder.html",
-    "title": "Open-Stat-Prog",
-    "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Open Statistical Pogramming Tutorials",
-    "section": "",
-    "text": "On this website you can find open-source R tutorials on topics ranging from “How to install R?” up to topics such as “How to write a function in R?” and beyond. The tutorials you can find on this website are gradually increasing in difficulty and are used in several courses taught by the Methods & Statistics and Sociology Departments of the Faculty of Social and Behavioral Sciences at Utrecht University. The tutorials are actively maintained for these courses.\nFeel free to make use of these tutorials to learn about statistical programming in R, or to integrate them into your courses as an instructor. We also welcome developers to contribute new tutorials."
-  },
-  {
-    "objectID": "team/1_Laura.html",
-    "href": "team/1_Laura.html",
-    "title": "Laura Boeschoten",
-    "section": "",
-    "text": "Project lead\nProfile page"
-  },
-  {
-    "objectID": "team/3_Andrea.html",
-    "href": "team/3_Andrea.html",
-    "title": "Andrea Forster",
-    "section": "",
-    "text": "Developer Sociology\nProfile page"
-  },
-  {
-    "objectID": "team/5_Paolo.html",
-    "href": "team/5_Paolo.html",
-    "title": "Paolo Colussi",
-    "section": "",
-    "text": "Developer\nProfile page"
-  },
-  {
-    "objectID": "tutorials/1_software_setup.html",
-    "href": "tutorials/1_software_setup.html",
-    "title": "1 Software setup",
-    "section": "",
-    "text": "This tutorial covers the very first steps you need to perform in order to start working with R and Rstudio. We cover how to install both programs and give you a tour of RStudio and provide you with some recommendations for settings.\nIf you are not automatically redirected, click here."
+    "text": "In this module, you will learn about basic data visualization using Base R graphics.\nIf you are not automatically redirected, click here."
   },
   {
     "objectID": "tutorials/3_data_types.html",
@@ -84,10 +21,80 @@
     "text": "In this module, you will learn about several of the most useful R data types.\nIf you are not automatically redirected, click here."
   },
   {
-    "objectID": "tutorials/5_basic_visualization.html",
-    "href": "tutorials/5_basic_visualization.html",
-    "title": "5 Basic Visualization",
+    "objectID": "tutorials/1_software_setup.html",
+    "href": "tutorials/1_software_setup.html",
+    "title": "1 Software setup",
     "section": "",
-    "text": "In this module, you will learn about basic data visualization using Base R graphics.\nIf you are not automatically redirected, click here."
+    "text": "This tutorial covers the very first steps you need to perform in order to start working with R and Rstudio. We cover how to install both programs and give you a tour of RStudio and provide you with some recommendations for settings.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "team/5_Paolo.html",
+    "href": "team/5_Paolo.html",
+    "title": "Paolo Colussi",
+    "section": "",
+    "text": "Developer\nProfile page"
+  },
+  {
+    "objectID": "team/3_Andrea.html",
+    "href": "team/3_Andrea.html",
+    "title": "Andrea Forster",
+    "section": "",
+    "text": "Developer Sociology\nProfile page"
+  },
+  {
+    "objectID": "team/1_Laura.html",
+    "href": "team/1_Laura.html",
+    "title": "Laura Boeschoten",
+    "section": "",
+    "text": "Project lead\nProfile page"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Open Statistical Pogramming Tutorials",
+    "section": "",
+    "text": "On this website you can find open-source R tutorials on topics ranging from “How to install R?” up to topics such as “How to write a function in R?” and beyond. The tutorials you can find on this website are gradually increasing in difficulty and are used in several courses taught by the Methods & Statistics and Sociology Departments of the Faculty of Social and Behavioral Sciences at Utrecht University. The tutorials are actively maintained for these courses.\nFeel free to make use of these tutorials to learn about statistical programming in R, or to integrate them into your courses as an instructor. We also welcome developers to contribute new tutorials."
+  },
+  {
+    "objectID": "placeholder/placeholder.html",
+    "href": "placeholder/placeholder.html",
+    "title": "Open-Stat-Prog",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "team/2_Kyle.html",
+    "href": "team/2_Kyle.html",
+    "title": "Kyle Lang",
+    "section": "",
+    "text": "Lead developer\nProfile page"
+  },
+  {
+    "objectID": "team/4_Isabelle.html",
+    "href": "team/4_Isabelle.html",
+    "title": "Isabelle van der Vegt",
+    "section": "",
+    "text": "Coordinator Sociology\nProfile page"
+  },
+  {
+    "objectID": "tutorials/2_first_steps.html",
+    "href": "tutorials/2_first_steps.html",
+    "title": "2 First steps",
+    "section": "",
+    "text": "In this module, you will take the first steps in your R programming journey by learning the basics of R usage.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "tutorials/4_reproducible_reporting.html",
+    "href": "tutorials/4_reproducible_reporting.html",
+    "title": "4 Reproducible reporting",
+    "section": "",
+    "text": "In this module, you will learn how to report your work in a reproducible way using Quarto.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "tutorials/6_external_data.html",
+    "href": "tutorials/6_external_data.html",
+    "title": "6 External Data",
+    "section": "",
+    "text": "In this module, you will learn about loading external datasets into R.\nIf you are not automatically redirected, click here."
   }
 ]

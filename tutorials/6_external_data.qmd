@@ -1,0 +1,22 @@
+---
+title: "6 External Data"
+author: "Paolo Colussi"
+image: "/images/hard-disk.jpg"
+---
+
+<script>
+if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
+    sessionStorage.setItem('redirected', 'true');
+    setTimeout(() => {
+        window.location.replace("https://www.openstatprog.com/external-data/");
+    }, 100);
+}
+</script>
+
+<noscript>
+<meta http-equiv="refresh" content="2; url=https://www.openstatprog.com/external-data/">
+</noscript>
+
+In this module, you will learn about loading external datasets into R.
+
+If you are not automatically redirected, [click here](https://www.openstatprog.com/external-data/).
