@@ -1,0 +1,22 @@
+---
+title: "7 Pipes"
+author: "Kyle Lang"
+image: "/images/pipes.png"
+---
+
+<script>
+if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
+    sessionStorage.setItem('redirected', 'true');
+    setTimeout(() => {
+        window.location.replace("https://www.openstatprog.com/baby-pipes/");
+    }, 100);
+}
+</script>
+
+<noscript>
+<meta http-equiv="refresh" content="2; url=https://www.openstatprog.com/baby-pipes/">
+</noscript>
+
+In this module, you will learn about composing functions with pipe operators.
+
+If you are not automatically redirected, [click here](https://www.openstatprog.com/baby-pipes/).
