@@ -10,12 +10,12 @@ website:
       - href: index.qmd
         text: Home
       - team.qmd
-      - tutorials.qmd
+      - modules.qmd
   page-footer:
     left: |
       [![](/images/UU_logo_2021_EN_BLACK.png){fig-alt="UU" width=200px}](https://uu.nl) 
     right: 
-      - text: 2025, Open-Stat-Prog
+      - text: 2026, Open-Stat-Prog
       - icon: github
         href: https://github.com/open-stat-prog
     background: primary

@@ -2,9 +2,9 @@
   {
     "objectID": "tutorials.html",
     "href": "tutorials.html",
-    "title": "Tutorials",
+    "title": "Modules",
     "section": "",
-    "text": "1 Software setup\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2 First steps\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3 Data Types\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4 Reproducible reporting\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5 Basic Visualization\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6 External Data\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n7 Pipes\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "1 Software setup\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n2 First steps\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\n\n\n\n\n\n\n\n3 Data Types\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n4 Reproducible reporting\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n5 Basic Visualization\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n6 External Data\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n7 Pipes\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\n\n\n\n\n\n\n\n8 Descriptive Statistics\n\n\n\n\n\n\nAndrea Forster\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "tutorials/6_external_data.html",
@@ -103,5 +103,75 @@
     "title": "7 Pipes",
     "section": "",
     "text": "In this module, you will learn about composing functions with pipe operators.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "tutorials/8_descriptive_statistics.html",
+    "href": "tutorials/8_descriptive_statistics.html",
+    "title": "8 Descriptive Statistics",
+    "section": "",
+    "text": "In this module, you will learn how to calculate summary statistics using R.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules.html",
+    "href": "modules.html",
+    "title": "Modules",
+    "section": "",
+    "text": "1 Software setup\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n2 First steps\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\n\n\n\n\n\n\n\n3 Data Types\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n4 Reproducible reporting\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n5 Basic Visualization\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n6 External Data\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n7 Pipes\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\n\n\n\n\n\n\n\n8 Descriptive Statistics\n\n\n\n\n\n\nAndrea Forster\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "modules/3_data_types.html",
+    "href": "modules/3_data_types.html",
+    "title": "3 Data Types",
+    "section": "",
+    "text": "In this module, you will learn about several of the most useful R data types.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/4_reproducible_reporting.html",
+    "href": "modules/4_reproducible_reporting.html",
+    "title": "4 Reproducible reporting",
+    "section": "",
+    "text": "In this module, you will learn how to report your work in a reproducible way using Quarto.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/1_software_setup.html",
+    "href": "modules/1_software_setup.html",
+    "title": "1 Software setup",
+    "section": "",
+    "text": "This tutorial covers the very first steps you need to perform in order to start working with R and Rstudio. We cover how to install both programs and give you a tour of RStudio and provide you with some recommendations for settings.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/2_first_steps.html",
+    "href": "modules/2_first_steps.html",
+    "title": "2 First steps",
+    "section": "",
+    "text": "In this module, you will take the first steps in your R programming journey by learning the basics of R usage.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/7_pipes.html",
+    "href": "modules/7_pipes.html",
+    "title": "7 Pipes",
+    "section": "",
+    "text": "In this module, you will learn about composing functions with pipe operators.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/6_external_data.html",
+    "href": "modules/6_external_data.html",
+    "title": "6 External Data",
+    "section": "",
+    "text": "In this module, you will learn about loading external datasets into R.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/8_descriptive_statistics.html",
+    "href": "modules/8_descriptive_statistics.html",
+    "title": "8 Descriptive Statistics",
+    "section": "",
+    "text": "In this module, you will learn how to calculate summary statistics using R.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/5_basic_visualization.html",
+    "href": "modules/5_basic_visualization.html",
+    "title": "5 Basic Visualization",
+    "section": "",
+    "text": "In this module, you will learn about basic data visualization using Base R graphics.\nIf you are not automatically redirected, click here."
   }
 ]

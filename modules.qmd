@@ -1,9 +1,8 @@
 ---
-title: "Tutorials"
+title: "Modules"
 listing:
-  contents: tutorials
+  contents: modules
   type: grid
   categories: true
   sort: "title asc"
 ---
-

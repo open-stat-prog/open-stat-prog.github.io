@@ -8,7 +8,8 @@
       "/tutorials/4_reproducible_reporting.html",
       "/tutorials/5_basic_visualization.html",
       "/tutorials/6_external_data.html",
-      "/tutorials/7_pipes.html"
+      "/tutorials/7_pipes.html",
+      "/tutorials/8_descriptive_statistics.html"
     ]
   },
   {
@@ -19,6 +20,19 @@
       "/team/2_Kyle.html",
       "/team/1_Laura.html",
       "/team/5_Paolo.html"
+    ]
+  },
+  {
+    "listing": "/modules.html",
+    "items": [
+      "/modules/1_software_setup.html",
+      "/modules/2_first_steps.html",
+      "/modules/3_data_types.html",
+      "/modules/4_reproducible_reporting.html",
+      "/modules/5_basic_visualization.html",
+      "/modules/6_external_data.html",
+      "/modules/7_pipes.html",
+      "/modules/8_descriptive_statistics.html"
     ]
   }
 ]
