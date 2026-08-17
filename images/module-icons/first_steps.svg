@@ -1,0 +1,39 @@
+<svg width="480" height="480" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>First steps</title>
+<desc>A winding gold path with footprints leading up to a navy flag on a hill, with a red waypoint marker and green leaf accents, on a cream card with a gold border.</desc>
+
+<rect x="8" y="8" width="464" height="464" rx="40" fill="#FBF6E9" stroke="#D4A017" stroke-width="3"/>
+
+<!-- ground hill -->
+<path d="M 40 400 Q 240 320 440 400 L 440 440 Q 240 440 40 440 Z" fill="#2A6041" opacity="0.18"/>
+
+<!-- winding path -->
+<path d="M 110 380 C 160 340, 150 300, 200 270 C 250 240, 240 200, 290 170 C 320 150, 320 130, 340 108"
+      fill="none" stroke="#D4A017" stroke-width="30" stroke-linecap="round" opacity="0.9"/>
+
+<!-- footprints along path, alternating left/right foot -->
+<ellipse cx="123" cy="372" rx="7" ry="12" fill="#1D3557" transform="rotate(-30 123 372)"/>
+<ellipse cx="140" cy="353" rx="7" ry="12" fill="#1D3557" transform="rotate(-15 140 353)"/>
+<ellipse cx="176" cy="304" rx="7" ry="12" fill="#1D3557" transform="rotate(-35 176 304)"/>
+<ellipse cx="196" cy="285" rx="7" ry="12" fill="#1D3557" transform="rotate(-18 196 285)"/>
+<ellipse cx="234" cy="234" rx="7" ry="12" fill="#1D3557" transform="rotate(-40 234 234)"/>
+<ellipse cx="254" cy="215" rx="7" ry="12" fill="#1D3557" transform="rotate(-20 254 215)"/>
+<ellipse cx="290" cy="164" rx="7" ry="12" fill="#1D3557" transform="rotate(-42 290 164)"/>
+<ellipse cx="310" cy="140" rx="7" ry="12" fill="#1D3557" transform="rotate(-22 310 140)"/>
+
+<!-- flag at top -->
+<rect x="336" y="70" width="8" height="70" fill="#1D3557"/>
+<path d="M 344 74 L 392 90 L 344 106 Z" fill="#9E2A2B"/>
+<circle cx="340" cy="66" r="7" fill="#D4A017"/>
+
+<!-- leaf accents -->
+<path d="M 80 420 Q 95 400 118 404 Q 100 424 80 420 Z" fill="#2A6041"/>
+<path d="M 372 416 Q 392 396 412 406 Q 394 424 372 416 Z" fill="#2A6041"/>
+
+<!-- waypoint marker, bottom left start -->
+<g transform="translate(96,404)">
+  <circle r="18" fill="#9E2A2B"/>
+  <circle r="6" fill="#FBF6E9"/>
+</g>
+
+</svg>

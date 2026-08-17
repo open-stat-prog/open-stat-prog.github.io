@@ -1,7 +1,7 @@
 ---
 title: "Isabelle van der Vegt"
 subtitle: ""
-image: "/images/Isabelle.jpeg"
+image: "/images/team/Isabelle.jpeg"
 ---
 
 Coordinator Sociology

@@ -1,122 +1,10 @@
 [
   {
-    "objectID": "tutorials.html",
-    "href": "tutorials.html",
-    "title": "Modules",
-    "section": "",
-    "text": "1 Software setup\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n2 First steps\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\n\n\n\n\n\n\n\n3 Data Types\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n4 Reproducible reporting\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n5 Basic Visualization\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n6 External Data\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n7 Pipes\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\n\n\n\n\n\n\n\n8 Descriptive Statistics\n\n\n\n\n\n\nAndrea Forster\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "tutorials/6_external_data.html",
-    "href": "tutorials/6_external_data.html",
-    "title": "6 External Data",
-    "section": "",
-    "text": "In this module, you will learn about loading external datasets into R.\nIf you are not automatically redirected, click here."
-  },
-  {
-    "objectID": "tutorials/4_reproducible_reporting.html",
-    "href": "tutorials/4_reproducible_reporting.html",
-    "title": "4 Reproducible reporting",
-    "section": "",
-    "text": "In this module, you will learn how to report your work in a reproducible way using Quarto.\nIf you are not automatically redirected, click here."
-  },
-  {
-    "objectID": "tutorials/2_first_steps.html",
-    "href": "tutorials/2_first_steps.html",
-    "title": "2 First steps",
-    "section": "",
-    "text": "In this module, you will take the first steps in your R programming journey by learning the basics of R usage.\nIf you are not automatically redirected, click here."
-  },
-  {
-    "objectID": "team/4_Isabelle.html",
-    "href": "team/4_Isabelle.html",
-    "title": "Isabelle van der Vegt",
-    "section": "",
-    "text": "Coordinator Sociology\nProfile page"
-  },
-  {
-    "objectID": "team/2_Kyle.html",
-    "href": "team/2_Kyle.html",
-    "title": "Kyle Lang",
-    "section": "",
-    "text": "Lead developer\nProfile page"
-  },
-  {
-    "objectID": "placeholder/placeholder.html",
-    "href": "placeholder/placeholder.html",
-    "title": "Open-Stat-Prog",
-    "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Open Statistical Pogramming Modules",
-    "section": "",
-    "text": "On this website you can find open-source R learning modules on topics ranging from “How to install R?” up to topics such as “How to write a function in R?” and beyond. The modules you can find on this website are gradually increasing in difficulty and are used in several courses taught by the Methods & Statistics and Sociology Departments of the Faculty of Social and Behavioral Sciences at Utrecht University. The modules are actively maintained for these courses.\nFeel free to make use of these modules to learn about statistical programming in R, or to integrate them into your courses as an instructor. We also welcome developers to contribute new learning modules for this website."
-  },
-  {
-    "objectID": "team/1_Laura.html",
-    "href": "team/1_Laura.html",
-    "title": "Laura Boeschoten",
-    "section": "",
-    "text": "Project lead\nProfile page"
-  },
-  {
-    "objectID": "team/3_Andrea.html",
-    "href": "team/3_Andrea.html",
-    "title": "Andrea Forster",
-    "section": "",
-    "text": "Developer Sociology\nProfile page"
-  },
-  {
-    "objectID": "team/5_Paolo.html",
-    "href": "team/5_Paolo.html",
-    "title": "Paolo Colussi",
-    "section": "",
-    "text": "Developer\nProfile page"
-  },
-  {
-    "objectID": "tutorials/1_software_setup.html",
-    "href": "tutorials/1_software_setup.html",
-    "title": "1 Software setup",
-    "section": "",
-    "text": "This tutorial covers the very first steps you need to perform in order to start working with R and Rstudio. We cover how to install both programs and give you a tour of RStudio and provide you with some recommendations for settings.\nIf you are not automatically redirected, click here."
-  },
-  {
-    "objectID": "tutorials/3_data_types.html",
-    "href": "tutorials/3_data_types.html",
-    "title": "3 Data Types",
-    "section": "",
-    "text": "In this module, you will learn about several of the most useful R data types.\nIf you are not automatically redirected, click here."
-  },
-  {
-    "objectID": "tutorials/5_basic_visualization.html",
-    "href": "tutorials/5_basic_visualization.html",
-    "title": "5 Basic Visualization",
-    "section": "",
-    "text": "In this module, you will learn about basic data visualization using Base R graphics.\nIf you are not automatically redirected, click here."
-  },
-  {
-    "objectID": "tutorials/7_pipes.html",
-    "href": "tutorials/7_pipes.html",
-    "title": "7 Pipes",
-    "section": "",
-    "text": "In this module, you will learn about composing functions with pipe operators.\nIf you are not automatically redirected, click here."
-  },
-  {
-    "objectID": "tutorials/8_descriptive_statistics.html",
-    "href": "tutorials/8_descriptive_statistics.html",
-    "title": "8 Descriptive Statistics",
-    "section": "",
-    "text": "In this module, you will learn how to calculate summary statistics using R.\nIf you are not automatically redirected, click here."
-  },
-  {
     "objectID": "modules.html",
     "href": "modules.html",
     "title": "Modules",
     "section": "",
-    "text": "1 Software setup\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n2 First steps\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\n\n\n\n\n\n\n\n3 Data Types\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n4 Reproducible reporting\n\n\n\n\n\n\nLaura Boeschoten\n\n\n\n\n\n\n\n\n\n\n\n\n\n5 Basic Visualization\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n6 External Data\n\n\n\n\n\n\nPaolo Colussi\n\n\n\n\n\n\n\n\n\n\n\n\n\n7 Pipes\n\n\n\n\n\n\nKyle Lang\n\n\n\n\n\n\n\n\n\n\n\n\n\n8 Descriptive Statistics\n\n\n\n\n\n\nAndrea Forster\n\n\n\n\n\n\nNo matching items"
+    "text": "Software setup\n\n\nInstall R and RStudio and get comfortable with the interface.\n\n\n\n\n\n\n\n\n\n\n\n\nFirst steps\n\n\nTake your first steps with the basics of R programming.\n\n\n\n\n\n\n\n\n\n\n\n\nVectors and Matrices\n\n\nWork with vectors and matrices, the building blocks of R’s data structures.\n\n\n\n\n\n\n\n\n\n\n\n\nLists and Dataframes\n\n\nStore and organize your data using lists and dataframes.\n\n\n\n\n\n\n\n\n\n\n\n\nFactors\n\n\nRepresent categorical data in R using factors.\n\n\n\n\n\n\n\n\n\n\n\n\nBasic Visualization\n\n\nCreate your first plots and charts with Base R graphics.\n\n\n\n\n\n\n\n\n\n\n\n\nPipes\n\n\nCompose functions cleanly using pipe operators.\n\n\n\n\n\n\n\n\n\n\n\n\nDescriptive Statistics\n\n\nSummarize your data using descriptive statistics.\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible reporting\n\n\nWrite reproducible reports and documents with Quarto.\n\n\n\n\n\n\n\n\n\n\n\n\nExternal Data\n\n\nImport external datasets into R.\n\n\n\n\n\n\n\n\n\n\n\n\nData Manipulation\n\n\nFilter, sort, and reshape your data to get it ready for analysis.\n\n\n\n\n\n\n\n\n\n\n\n\nAdvanced Functions\n\n\nWrite your own functions to make your R code reusable.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "modules/3_data_types.html",
@@ -135,21 +23,70 @@
   {
     "objectID": "modules/1_software_setup.html",
     "href": "modules/1_software_setup.html",
-    "title": "1 Software setup",
+    "title": "Software setup",
     "section": "",
     "text": "This tutorial covers the very first steps you need to perform in order to start working with R and Rstudio. We cover how to install both programs and give you a tour of RStudio and provide you with some recommendations for settings.\nIf you are not automatically redirected, click here."
   },
   {
     "objectID": "modules/2_first_steps.html",
     "href": "modules/2_first_steps.html",
-    "title": "2 First steps",
+    "title": "First steps",
     "section": "",
     "text": "In this module, you will take the first steps in your R programming journey by learning the basics of R usage.\nIf you are not automatically redirected, click here."
   },
   {
+    "objectID": "team/5_Paolo.html",
+    "href": "team/5_Paolo.html",
+    "title": "Paolo Colussi",
+    "section": "",
+    "text": "Developer\nProfile page"
+  },
+  {
+    "objectID": "team/2_Kyle.html",
+    "href": "team/2_Kyle.html",
+    "title": "Kyle Lang",
+    "section": "",
+    "text": "Lead developer\nProfile page"
+  },
+  {
+    "objectID": "team/4_Isabelle.html",
+    "href": "team/4_Isabelle.html",
+    "title": "Isabelle van der Vegt",
+    "section": "",
+    "text": "Coordinator Sociology\nProfile page"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Open Statistical Pogramming Modules",
+    "section": "",
+    "text": "On this website you can find open-source R learning modules on topics ranging from “How to install R?” up to topics such as “How to write a function in R?” and beyond. The modules you can find on this website are gradually increasing in difficulty and are used in several courses taught by the Methods & Statistics and Sociology Departments of the Faculty of Social and Behavioral Sciences at Utrecht University. The modules are actively maintained for these courses.\nFeel free to make use of these modules to learn about statistical programming in R, or to integrate them into your courses as an instructor. We also welcome developers to contribute new learning modules for this website.\n\nStatement on the use of AI\nThe content and structure of the R modules were designed by the teaching staff. Generative AI (Claude) has been used to help implement feedback and improve the modules. All AI-assisted changes have been reviewed and checked by a human author before publication."
+  },
+  {
+    "objectID": "team/1_Laura.html",
+    "href": "team/1_Laura.html",
+    "title": "Laura Boeschoten",
+    "section": "",
+    "text": "Project lead\nProfile page"
+  },
+  {
+    "objectID": "team/3_Andrea.html",
+    "href": "team/3_Andrea.html",
+    "title": "Andrea Forster",
+    "section": "",
+    "text": "Developer Sociology\nProfile page"
+  },
+  {
+    "objectID": "placeholder/placeholder.html",
+    "href": "placeholder/placeholder.html",
+    "title": "Open-Stat-Prog",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
     "objectID": "modules/7_pipes.html",
     "href": "modules/7_pipes.html",
-    "title": "7 Pipes",
+    "title": "Pipes",
     "section": "",
     "text": "In this module, you will learn about composing functions with pipe operators.\nIf you are not automatically redirected, click here."
   },
@@ -163,7 +100,7 @@
   {
     "objectID": "modules/8_descriptive_statistics.html",
     "href": "modules/8_descriptive_statistics.html",
-    "title": "8 Descriptive Statistics",
+    "title": "Descriptive Statistics",
     "section": "",
     "text": "In this module, you will learn how to calculate summary statistics using R.\nIf you are not automatically redirected, click here."
   },
@@ -173,5 +110,68 @@
     "title": "5 Basic Visualization",
     "section": "",
     "text": "In this module, you will learn about basic data visualization using Base R graphics.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "team/6_Sibel.html",
+    "href": "team/6_Sibel.html",
+    "title": "Sibel Telli",
+    "section": "",
+    "text": "Educational Consultant\nProfile page"
+  },
+  {
+    "objectID": "modules/11_data_manipulation.html",
+    "href": "modules/11_data_manipulation.html",
+    "title": "Data Manipulation",
+    "section": "",
+    "text": "In this module, you will learn about loading external datasets into R.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/9_reproducible_reporting.html",
+    "href": "modules/9_reproducible_reporting.html",
+    "title": "Reproducible reporting",
+    "section": "",
+    "text": "In this module, you will learn how to report your work in a reproducible way using Quarto.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/4_lists_dataframes.html",
+    "href": "modules/4_lists_dataframes.html",
+    "title": "Lists and Dataframes",
+    "section": "",
+    "text": "In this module, you will learn about several of the most useful R data types.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/3_vectors_matrices.html",
+    "href": "modules/3_vectors_matrices.html",
+    "title": "Vectors and Matrices",
+    "section": "",
+    "text": "In this module, you will learn about several of the most useful R data types.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/12_advanced_functions.html",
+    "href": "modules/12_advanced_functions.html",
+    "title": "Advanced Functions",
+    "section": "",
+    "text": "In this module, you will learn about loading external datasets into R.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/10_external_data.html",
+    "href": "modules/10_external_data.html",
+    "title": "External Data",
+    "section": "",
+    "text": "In this module, you will learn about loading external datasets into R.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/6_basic_visualization.html",
+    "href": "modules/6_basic_visualization.html",
+    "title": "Basic Visualization",
+    "section": "",
+    "text": "In this module, you will learn about basic data visualization using Base R graphics.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/5_factors.html",
+    "href": "modules/5_factors.html",
+    "title": "Factors",
+    "section": "",
+    "text": "In this module, you will learn about several of the most useful R data types.\nIf you are not automatically redirected, click here."
   }
 ]

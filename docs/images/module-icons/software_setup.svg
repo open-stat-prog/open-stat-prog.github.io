@@ -1,0 +1,48 @@
+<svg width="480" height="480" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Software setup</title>
+<desc>A navy computer monitor with a gold download arrow on screen, a gold gear, a red status light, and a green checkmark badge, on a cream card with a gold border.</desc>
+
+<rect x="8" y="8" width="464" height="464" rx="40" fill="#FBF6E9" stroke="#D4A017" stroke-width="3"/>
+
+<!-- gear, top right -->
+<g transform="translate(372,112)">
+  <g fill="#D4A017">
+    <rect x="-6" y="-34" width="12" height="16" rx="3"/>
+    <rect x="-6" y="18" width="12" height="16" rx="3"/>
+    <rect x="-34" y="-6" width="16" height="12" rx="3"/>
+    <rect x="18" y="-6" width="16" height="12" rx="3"/>
+    <g transform="rotate(45)">
+      <rect x="-6" y="-34" width="12" height="16" rx="3"/>
+      <rect x="-6" y="18" width="12" height="16" rx="3"/>
+      <rect x="-34" y="-6" width="16" height="12" rx="3"/>
+      <rect x="18" y="-6" width="16" height="12" rx="3"/>
+    </g>
+  </g>
+  <circle r="24" fill="#D4A017"/>
+  <circle r="10" fill="#FBF6E9"/>
+</g>
+
+<!-- monitor -->
+<rect x="128" y="152" width="224" height="140" rx="12" fill="#1D3557"/>
+<rect x="144" y="167" width="192" height="98" rx="5" fill="#EAF1F8"/>
+<rect x="216" y="292" width="48" height="26" fill="#1D3557"/>
+<rect x="180" y="316" width="120" height="14" rx="7" fill="#1D3557"/>
+
+<!-- power light -->
+<circle cx="158" cy="182" r="9" fill="#9E2A2B"/>
+
+<!-- download arrow on screen -->
+<rect x="230" y="188" width="20" height="38" fill="#D4A017"/>
+<polygon points="204,222 276,222 240,262" fill="#D4A017"/>
+
+<!-- check badge, bottom right -->
+<g transform="translate(378,384)">
+  <circle r="30" fill="#2A6041"/>
+  <path d="M -14 0 L -4 11 L 16 -12" fill="none" stroke="#FBF6E9" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+
+<!-- small accent dots, bottom left -->
+<circle cx="118" cy="378" r="9" fill="#D4A017"/>
+<circle cx="146" cy="392" r="6" fill="#9E2A2B"/>
+
+</svg>

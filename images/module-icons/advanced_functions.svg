@@ -1,0 +1,48 @@
+<svg width="480" height="480" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Advanced functions</title>
+<desc>An input arrow entering a navy box labelled f of x, with a gold gear accent, and an output arrow leaving toward a green result badge, on a cream card with a gold border.</desc>
+
+<rect x="8" y="8" width="464" height="464" rx="40" fill="#FBF6E9" stroke="#D4A017" stroke-width="3"/>
+
+<!-- input arrow -->
+<line x1="80" y1="240" x2="150" y2="240" stroke="#9E2A2B" stroke-width="10" stroke-linecap="round"/>
+<polygon points="176,240 148,224 148,256" fill="#9E2A2B"/>
+<circle cx="94" cy="240" r="10" fill="#9E2A2B"/>
+
+<!-- function box -->
+<rect x="176" y="180" width="128" height="120" rx="16" fill="#1D3557"/>
+<text x="240" y="252" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#FBF6E9" text-anchor="middle">f(x)</text>
+
+<!-- gear accent -->
+<g transform="translate(300,178)">
+  <g fill="#D4A017">
+    <rect x="-5" y="-27" width="10" height="13" rx="2"/>
+    <rect x="-5" y="14" width="10" height="13" rx="2"/>
+    <rect x="-27" y="-5" width="13" height="10" rx="2"/>
+    <rect x="14" y="-5" width="13" height="10" rx="2"/>
+    <g transform="rotate(45)">
+      <rect x="-5" y="-27" width="10" height="13" rx="2"/>
+      <rect x="-5" y="14" width="10" height="13" rx="2"/>
+      <rect x="-27" y="-5" width="13" height="10" rx="2"/>
+      <rect x="14" y="-5" width="13" height="10" rx="2"/>
+    </g>
+  </g>
+  <circle r="20" fill="#D4A017"/>
+  <circle r="8" fill="#FBF6E9"/>
+</g>
+
+<!-- output arrow -->
+<line x1="330" y1="240" x2="382" y2="240" stroke="#2A6041" stroke-width="10" stroke-linecap="round"/>
+<polygon points="408,240 380,224 380,256" fill="#2A6041"/>
+
+<!-- result badge -->
+<g transform="translate(400,352)">
+  <circle r="26" fill="#2A6041"/>
+  <path d="M -11 0 L -3 9 L 13 -10" fill="none" stroke="#FBF6E9" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+
+<!-- small accent dots -->
+<circle cx="90" cy="352" r="9" fill="#D4A017"/>
+<circle cx="118" cy="366" r="6" fill="#9E2A2B"/>
+
+</svg>

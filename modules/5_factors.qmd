@@ -1,0 +1,27 @@
+---
+title: "Factors"
+description: "Represent categorical data in R using factors."
+image: "/images/module-icons/factors.svg"
+order: 5
+---
+
+```{=html}
+<script>
+if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
+    sessionStorage.setItem('redirected', 'true');
+    setTimeout(() => {
+        window.location.replace("https://openstatprog.com/factors/");
+    }, 100);
+}
+</script>
+```
+
+<noscript>
+
+<meta http-equiv="refresh" content="2; url=https://openstatprog.com/factors/">
+
+</noscript>
+
+In this module, you will learn about several of the most useful R data types.
+
+If you are not automatically redirected, [click here](https://openstatprog.com/factors/).

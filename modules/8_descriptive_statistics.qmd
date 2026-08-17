@@ -1,7 +1,8 @@
 ---
-title: "8 Descriptive Statistics"
-author: "Andrea Forster"
-image: "/images/descriptive_statistics.svg"
+title: "Descriptive Statistics"
+description: "Summarize your data using descriptive statistics."
+image: "/images/module-icons/descriptive_statistics.svg"
+order: 8
 ---
 
 ```{=html}

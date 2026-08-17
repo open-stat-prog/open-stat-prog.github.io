@@ -5,3 +5,41 @@
   height: 100px; /* or your preferred size */
   width: auto;
 }
+
+/* Modules grid: let the square module icons show in full (no cropping),
+   and give the cards a bit more of a "button" feel */
+#modules-listing .quarto-grid-item {
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+#modules-listing .quarto-grid-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 22px rgba(0, 0, 0, 0.15);
+}
+
+#modules-listing .thumbnail-image {
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 1 / 1 !important;
+  object-fit: cover !important;
+  padding: 0 !important;
+  background-color: transparent !important;
+  display: block;
+}
+
+#modules-listing .card-title {
+  font-weight: 600;
+}
+
+/* AI usage statement box on the home page */
+.ai-statement {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-left: 4px solid #d4a017;
+  border-radius: 8px;
+  padding: 1.1rem 1.4rem;
+  margin-top: 1.5rem;
+  background-color: rgba(212, 160, 23, 0.06);
+}

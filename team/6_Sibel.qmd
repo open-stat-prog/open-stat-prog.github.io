@@ -1,0 +1,9 @@
+---
+title: "Sibel Telli"
+subtitle: ""
+image: "/images/team/placeholder.png"
+---
+
+**Educational Consultant**
+
+<a href = "https://www.uu.nl/staff/STelli" class = "button btn btn-outline-primary">Profile page</a>

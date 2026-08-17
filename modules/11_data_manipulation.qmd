@@ -1,0 +1,27 @@
+---
+title: "Data Manipulation"
+description: "Filter, sort, and reshape your data to get it ready for analysis."
+image: "/images/module-icons/data_manipulation.svg"
+order: 11
+---
+
+```{=html}
+<script>
+if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
+    sessionStorage.setItem('redirected', 'true');
+    setTimeout(() => {
+        window.location.replace("https://openstatprog.com/data-manipulation/");
+    }, 100);
+}
+</script>
+```
+
+<noscript>
+
+<meta http-equiv="refresh" content="2; url=https://openstatprog.com/data-manipulation/">
+
+</noscript>
+
+In this module, you will learn about loading external datasets into R.
+
+If you are not automatically redirected, [click here](https://openstatprog.com/data-manipulation/).

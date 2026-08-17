@@ -1,8 +1,10 @@
 ---
 title: "Modules"
 listing:
+  id: modules-listing
   contents: modules
   type: grid
   categories: true
-  sort: "title asc"
+  sort: "order asc"
+  fields: [image, title, description]
 ---

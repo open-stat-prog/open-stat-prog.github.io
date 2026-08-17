@@ -1,7 +1,7 @@
 ---
 title: "Laura Boeschoten"
 subtitle: ""
-image: "/images/Laura Boeschoten-018.jpg"
+image: "/images/team/Laura.jpg"
 ---
 
 Project lead

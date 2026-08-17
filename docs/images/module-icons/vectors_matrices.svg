@@ -1,0 +1,35 @@
+<svg width="480" height="480" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Vectors and matrices</title>
+<desc>A bracketed 3 by 3 matrix of colored cells beside a bracketed vector column, in navy, gold, green, and red, on a cream card with a gold border.</desc>
+
+<rect x="8" y="8" width="464" height="464" rx="40" fill="#FBF6E9" stroke="#D4A017" stroke-width="3"/>
+
+<!-- matrix bracket left -->
+<path d="M 108 130 L 90 130 L 90 350 L 108 350" fill="none" stroke="#1D3557" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+
+<!-- matrix cells 3x3 -->
+<g>
+<rect x="120" y="140" width="56" height="56" rx="6" fill="#1D3557"/>
+<rect x="184" y="140" width="56" height="56" rx="6" fill="#D4A017"/>
+<rect x="248" y="140" width="56" height="56" rx="6" fill="#2A6041"/>
+
+<rect x="120" y="204" width="56" height="56" rx="6" fill="#D4A017"/>
+<rect x="184" y="204" width="56" height="56" rx="6" fill="#2A6041"/>
+<rect x="248" y="204" width="56" height="56" rx="6" fill="#9E2A2B"/>
+
+<rect x="120" y="268" width="56" height="56" rx="6" fill="#2A6041"/>
+<rect x="184" y="268" width="56" height="56" rx="6" fill="#9E2A2B"/>
+<rect x="248" y="268" width="56" height="56" rx="6" fill="#1D3557"/>
+</g>
+
+<!-- matrix bracket right -->
+<path d="M 316 130 L 334 130 L 334 350 L 316 350" fill="none" stroke="#1D3557" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+
+<!-- vector bracket -->
+<path d="M 372 160 L 358 160 L 358 320 L 372 320" fill="none" stroke="#9E2A2B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="382" y="168" width="46" height="46" rx="6" fill="#9E2A2B"/>
+<rect x="382" y="222" width="46" height="46" rx="6" fill="#9E2A2B"/>
+<rect x="382" y="276" width="46" height="46" rx="6" fill="#9E2A2B"/>
+<path d="M 440 160 L 454 160 L 454 320 L 440 320" fill="none" stroke="#9E2A2B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+</svg>

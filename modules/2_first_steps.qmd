@@ -1,9 +1,11 @@
 ---
-title: "2 First steps"
-author: "Kyle Lang"
-image: "/images/tutorial2.png"
+title: "First steps"
+description: "Take your first steps with the basics of R programming."
+image: "/images/module-icons/first_steps.svg"
+order: 2
 ---
 
+```{=html}
 <script>
 if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
     sessionStorage.setItem('redirected', 'true');
@@ -12,9 +14,12 @@ if (!window.location.href.includes('your-tutorial-website.com') && !sessionStora
     }, 100);
 }
 </script>
+```
 
 <noscript>
+
 <meta http-equiv="refresh" content="2; url=https://www.openstatprog.com/first-steps/">
+
 </noscript>
 
 In this module, you will take the first steps in your R programming journey by learning the basics of R usage.

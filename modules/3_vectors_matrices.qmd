@@ -1,0 +1,27 @@
+---
+title: "Vectors and Matrices"
+description: "Work with vectors and matrices, the building blocks of R's data structures."
+image: "/images/module-icons/vectors_matrices.svg"
+order: 3
+---
+
+```{=html}
+<script>
+if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
+    sessionStorage.setItem('redirected', 'true');
+    setTimeout(() => {
+        window.location.replace("https://openstatprog.com/vectors-matrices/");
+    }, 100);
+}
+</script>
+```
+
+<noscript>
+
+<meta http-equiv="refresh" content="2; url=https://openstatprog.com/vectors-matrices/">
+
+</noscript>
+
+In this module, you will learn about several of the most useful R data types.
+
+If you are not automatically redirected, [click here](https://openstatprog.com/vectors-matrices/).

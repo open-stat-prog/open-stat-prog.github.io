@@ -1,0 +1,27 @@
+---
+title: "Advanced Functions"
+description: "Write your own functions to make your R code reusable."
+image: "/images/module-icons/advanced_functions.svg"
+order: 12
+---
+
+```{=html}
+<script>
+if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
+    sessionStorage.setItem('redirected', 'true');
+    setTimeout(() => {
+        window.location.replace("https://openstatprog.com/advanced-functions-new/");
+    }, 100);
+}
+</script>
+```
+
+<noscript>
+
+<meta http-equiv="refresh" content="2; url=https://openstatprog.com/advanced-functions-new/">
+
+</noscript>
+
+In this module, you will learn about loading external datasets into R.
+
+If you are not automatically redirected, [click here](https://openstatprog.com/advanced-functions-new/).

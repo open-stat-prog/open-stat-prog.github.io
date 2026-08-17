@@ -1,0 +1,24 @@
+<svg width="480" height="480" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Basic visualization</title>
+<desc>A bar chart with navy, gold, and green bars, a red trend line with data point dots, and axis lines, on a cream card with a gold border.</desc>
+
+<rect x="8" y="8" width="464" height="464" rx="40" fill="#FBF6E9" stroke="#D4A017" stroke-width="3"/>
+
+<!-- axes -->
+<line x1="130" y1="120" x2="130" y2="360" stroke="#1D3557" stroke-width="5" stroke-linecap="round"/>
+<line x1="130" y1="360" x2="380" y2="360" stroke="#1D3557" stroke-width="5" stroke-linecap="round"/>
+
+<!-- bars -->
+<rect x="160" y="270" width="42" height="90" rx="4" fill="#1D3557"/>
+<rect x="216" y="230" width="42" height="130" rx="4" fill="#D4A017"/>
+<rect x="272" y="190" width="42" height="170" rx="4" fill="#2A6041"/>
+<rect x="328" y="245" width="42" height="115" rx="4" fill="#1D3557"/>
+
+<!-- trend line with points -->
+<polyline points="181,255 237,205 293,165 349,220" fill="none" stroke="#9E2A2B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="181" cy="255" r="8" fill="#9E2A2B"/>
+<circle cx="237" cy="205" r="8" fill="#9E2A2B"/>
+<circle cx="293" cy="165" r="8" fill="#9E2A2B"/>
+<circle cx="349" cy="220" r="8" fill="#9E2A2B"/>
+
+</svg>

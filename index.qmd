@@ -5,3 +5,9 @@ title: "Open Statistical Pogramming Modules"
 On this website you can find open-source R learning modules on topics ranging from "How to install R?" up to topics such as "How to write a function in R?" and beyond. The modules you can find on this website are gradually increasing in difficulty and are used in several courses taught by the Methods & Statistics and Sociology Departments of the Faculty of Social and Behavioral Sciences at Utrecht University. The modules are actively maintained for these courses.
 
 Feel free to make use of these modules to learn about statistical programming in R, or to integrate them into your courses as an instructor. We also welcome developers to contribute new learning modules for this website.
+
+::: ai-statement
+### Statement on the use of AI
+
+The content and structure of the R modules were designed by the teaching staff. Generative AI (Claude) has been used to help implement feedback and improve the modules. All AI-assisted changes have been reviewed and checked by a human author before publication.
+:::

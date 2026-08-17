@@ -1,0 +1,39 @@
+<svg width="480" height="480" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Pipes</title>
+<desc>Three navy nodes chained left to right by a gold pipe, with small flow dots moving through and a green output check, on a cream card with a gold border.</desc>
+
+<rect x="8" y="8" width="464" height="464" rx="40" fill="#FBF6E9" stroke="#D4A017" stroke-width="3"/>
+
+<!-- pipe connecting the nodes -->
+<path d="M 130 240 L 350 240" fill="none" stroke="#D4A017" stroke-width="20" stroke-linecap="round"/>
+
+<!-- flow dots -->
+<circle cx="178" cy="240" r="7" fill="#FBF6E9"/>
+<circle cx="210" cy="240" r="7" fill="#FBF6E9"/>
+<circle cx="242" cy="240" r="7" fill="#FBF6E9"/>
+<circle cx="274" cy="240" r="7" fill="#FBF6E9"/>
+<circle cx="306" cy="240" r="7" fill="#FBF6E9"/>
+
+<!-- node 1 -->
+<rect x="76" y="196" width="88" height="88" rx="18" fill="#1D3557"/>
+<text x="120" y="252" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#FBF6E9" text-anchor="middle">A</text>
+
+<!-- node 2 -->
+<rect x="196" y="196" width="88" height="88" rx="18" fill="#1D3557"/>
+<text x="240" y="252" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#FBF6E9" text-anchor="middle">B</text>
+
+<!-- node 3 -->
+<rect x="316" y="196" width="88" height="88" rx="18" fill="#1D3557"/>
+<text x="360" y="252" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#FBF6E9" text-anchor="middle">C</text>
+
+<!-- result badge -->
+<g transform="translate(360,362)">
+  <circle r="28" fill="#2A6041"/>
+  <path d="M -12 0 L -3 10 L 15 -11" fill="none" stroke="#FBF6E9" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+
+<!-- small accent dots -->
+<circle cx="108" cy="360" r="9" fill="#9E2A2B"/>
+<circle cx="136" cy="374" r="6" fill="#D4A017"/>
+
+</svg>

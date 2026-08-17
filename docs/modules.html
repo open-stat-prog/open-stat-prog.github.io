@@ -72,20 +72,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-modules-listing .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-modules-listing'] = new List('listing-modules-listing', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -174,7 +174,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(8)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(12)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -201,172 +201,196 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="quarto-listing quarto-listing-container-grid" id="listing-modules-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1757341773086" data-listing-reading-time-sort="1" data-listing-word-count-sort="80">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1786977047261" data-listing-reading-time-sort="1" data-listing-word-count-sort="80">
 <a href="./modules/1_software_setup.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./images/tutorial1.webp" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./images/module-icons/software_setup.svg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-1 Software setup
+Software setup
 </h5>
 <div class="card-text listing-description delink">
-This tutorial covers the very first steps you need to perform in order to start working with R and Rstudio. We cover how to install both programs and give you a tour of…
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Laura Boeschoten
-</div>
+<p>Install R and RStudio and get comfortable with the interface.</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1757341773087" data-listing-reading-time-sort="1" data-listing-word-count-sort="59">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1786977090962" data-listing-reading-time-sort="1" data-listing-word-count-sort="59">
 <a href="./modules/2_first_steps.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./images/tutorial2.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./images/module-icons/first_steps.svg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-2 First steps
+First steps
 </h5>
 <div class="card-text listing-description delink">
-In this module, you will take the first steps in your R programming journey by learning the basics of R usage.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Kyle Lang
-</div>
+<p>Take your first steps with the basics of R programming.</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1757341773088" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
-<a href="./modules/3_data_types.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1786977051769" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
+<a href="./modules/3_vectors_matrices.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./images/binary_hyperspeed.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./images/module-icons/vectors_matrices.svg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-3 Data Types
+Vectors and Matrices
 </h5>
 <div class="card-text listing-description delink">
-In this module, you will learn about several of the most useful R data types.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Paolo Colussi
-</div>
+<p>Work with vectors and matrices, the building blocks of R’s data structures.</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1760979913578" data-listing-reading-time-sort="1" data-listing-word-count-sort="55">
-<a href="./modules/4_reproducible_reporting.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1786977056264" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
+<a href="./modules/4_lists_dataframes.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./images/quarto.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./images/module-icons/lists_dataframes.svg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-4 Reproducible reporting
+Lists and Dataframes
 </h5>
 <div class="card-text listing-description delink">
-In this module, you will learn how to report your work in a reproducible way using Quarto.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Laura Boeschoten
-</div>
+<p>Store and organize your data using lists and dataframes.</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1762331143335" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
-<a href="./modules/5_basic_visualization.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1786977060609" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
+<a href="./modules/5_factors.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./images/boxplot_thumbnail.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./images/module-icons/factors.svg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-5 Basic Visualization
+Factors
 </h5>
 <div class="card-text listing-description delink">
-In this module, you will learn about basic data visualization using Base R graphics.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Paolo Colussi
-</div>
+<p>Represent categorical data in R using factors.</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1762331143335" data-listing-reading-time-sort="1" data-listing-word-count-sort="50">
-<a href="./modules/6_external_data.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1786977064217" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
+<a href="./modules/6_basic_visualization.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./images/hard-disk.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./images/module-icons/basic_visualization.svg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-6 External Data
+Basic Visualization
 </h5>
 <div class="card-text listing-description delink">
-In this module, you will learn about loading external datasets into R.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Paolo Colussi
-</div>
+<p>Create your first plots and charts with Base R graphics.</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1777293137710" data-listing-reading-time-sort="1" data-listing-word-count-sort="50">
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1786977067918" data-listing-reading-time-sort="1" data-listing-word-count-sort="50">
 <a href="./modules/7_pipes.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./images/pipes.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./images/module-icons/pipes.svg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-7 Pipes
+Pipes
 </h5>
 <div class="card-text listing-description delink">
-In this module, you will learn about composing functions with pipe operators.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Kyle Lang
-</div>
+<p>Compose functions cleanly using pipe operators.</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1777294488367" data-listing-reading-time-sort="1" data-listing-word-count-sort="51">
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1786977072030" data-listing-reading-time-sort="1" data-listing-word-count-sort="51">
 <a href="./modules/8_descriptive_statistics.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./images/descriptive_statistics.svg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./images/module-icons/descriptive_statistics.svg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-8 Descriptive Statistics
+Descriptive Statistics
 </h5>
 <div class="card-text listing-description delink">
-In this module, you will learn how to calculate summary statistics using R.
+<p>Summarize your data using descriptive statistics.</p>
 </div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Andrea Forster
 </div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1786977079060" data-listing-reading-time-sort="1" data-listing-word-count-sort="55">
+<a href="./modules/9_reproducible_reporting.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/module-icons/reproducible_reporting.svg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Reproducible reporting
+</h5>
+<div class="card-text listing-description delink">
+<p>Write reproducible reports and documents with Quarto.</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1786977083179" data-listing-reading-time-sort="1" data-listing-word-count-sort="50">
+<a href="./modules/10_external_data.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/module-icons/external_data.svg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+External Data
+</h5>
+<div class="card-text listing-description delink">
+<p>Import external datasets into R.</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1786977041599" data-listing-reading-time-sort="1" data-listing-word-count-sort="50">
+<a href="./modules/11_data_manipulation.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/module-icons/data_manipulation.svg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Data Manipulation
+</h5>
+<div class="card-text listing-description delink">
+<p>Filter, sort, and reshape your data to get it ready for analysis.</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1786977087315" data-listing-reading-time-sort="1" data-listing-word-count-sort="50">
+<a href="./modules/12_advanced_functions.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/module-icons/advanced_functions.svg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Advanced Functions
+</h5>
+<div class="card-text listing-description delink">
+<p>Write your own functions to make your R code reusable.</p>
 </div>
 </div>
 </div></a>

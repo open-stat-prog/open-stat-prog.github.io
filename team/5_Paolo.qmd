@@ -1,7 +1,7 @@
 ---
 title: "Paolo Colussi"
 subtitle: ""
-image: "/images/paolo.jpeg"
+image: "/images/team/Paolo.jpeg"
 ---
 
 Developer

@@ -1,0 +1,32 @@
+<svg width="480" height="480" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>External data</title>
+<desc>A navy open folder with a gold download arrow, a green spreadsheet file and a red document file moving toward it, on a cream card with a gold border.</desc>
+
+<rect x="8" y="8" width="464" height="464" rx="40" fill="#FBF6E9" stroke="#D4A017" stroke-width="3"/>
+
+<!-- incoming file: spreadsheet, green -->
+<g transform="translate(120,120) rotate(-12)">
+  <rect x="0" y="0" width="72" height="88" rx="8" fill="#2A6041"/>
+  <line x1="14" y1="24" x2="58" y2="24" stroke="#FBF6E9" stroke-width="5"/>
+  <line x1="14" y1="44" x2="58" y2="44" stroke="#FBF6E9" stroke-width="5"/>
+  <line x1="14" y1="64" x2="58" y2="64" stroke="#FBF6E9" stroke-width="5"/>
+  <line x1="30" y1="14" x2="30" y2="74" stroke="#FBF6E9" stroke-width="5"/>
+</g>
+
+<!-- incoming file: document, red -->
+<g transform="translate(300,116) rotate(12)">
+  <rect x="0" y="0" width="72" height="88" rx="8" fill="#9E2A2B"/>
+  <line x1="14" y1="26" x2="58" y2="26" stroke="#FBF6E9" stroke-width="5"/>
+  <line x1="14" y1="46" x2="58" y2="46" stroke="#FBF6E9" stroke-width="5"/>
+  <line x1="14" y1="66" x2="44" y2="66" stroke="#FBF6E9" stroke-width="5"/>
+</g>
+
+<!-- download arrow -->
+<rect x="222" y="188" width="20" height="46" fill="#D4A017"/>
+<polygon points="196,228 268,228 232,270" fill="#D4A017"/>
+
+<!-- folder -->
+<path d="M 96 288 Q 96 274 110 274 L 190 274 Q 200 274 206 282 L 214 294 L 384 294 Q 398 294 398 308 L 398 382 Q 398 396 384 396 L 110 396 Q 96 396 96 382 Z" fill="#1D3557"/>
+<path d="M 96 308 Q 96 296 110 296 L 384 296 Q 398 296 398 308 L 398 320 L 96 320 Z" fill="#16293F"/>
+
+</svg>

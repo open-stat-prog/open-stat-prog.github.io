@@ -1,9 +1,12 @@
 ---
-title: "1 Software setup"
+title: "Software setup"
 subtitle: "Installing R & Rstudio"
-author: "Laura Boeschoten"
-image: "/images/tutorial1.webp"
+description: "Install R and RStudio and get comfortable with the interface."
+image: "/images/module-icons/software_setup.svg"
+order: 1
 ---
+
+```{=html}
 <script>
 if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
     sessionStorage.setItem('redirected', 'true');
@@ -12,9 +15,12 @@ if (!window.location.href.includes('your-tutorial-website.com') && !sessionStora
     }, 100);
 }
 </script>
+```
 
 <noscript>
+
 <meta http-equiv="refresh" content="2; url=https://www.openstatprog.com/software-setup/">
+
 </noscript>
 
 This tutorial covers the very first steps you need to perform in order to start working with R and Rstudio. We cover how to install both programs and give you a tour of RStudio and provide you with some recommendations for settings.

@@ -1,9 +1,11 @@
 ---
-title: "7 Pipes"
-author: "Kyle Lang"
-image: "/images/pipes.png"
+title: "Pipes"
+description: "Compose functions cleanly using pipe operators."
+image: "/images/module-icons/pipes.svg"
+order: 7
 ---
 
+```{=html}
 <script>
 if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
     sessionStorage.setItem('redirected', 'true');
@@ -12,9 +14,12 @@ if (!window.location.href.includes('your-tutorial-website.com') && !sessionStora
     }, 100);
 }
 </script>
+```
 
 <noscript>
+
 <meta http-equiv="refresh" content="2; url=https://www.openstatprog.com/baby-pipes/">
+
 </noscript>
 
 In this module, you will learn about composing functions with pipe operators.
