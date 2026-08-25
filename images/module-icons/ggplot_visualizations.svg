@@ -1,0 +1,44 @@
+<svg width="480" height="480" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>ggplot visualizations</title>
+<desc>A scatter plot with color-coded points and a red trend line inside a confidence ribbon, sitting on stacked layered panels representing ggplot2's grammar of graphics, on a cream card with a gold border.</desc>
+
+<rect x="8" y="8" width="464" height="464" rx="40" fill="#FBF6E9" stroke="#D4A017" stroke-width="3"/>
+
+<!-- stacked layer panels behind the plot, hinting at "grammar of graphics" layers -->
+<rect x="112" y="128" width="230" height="176" rx="10" fill="#2A6041" opacity="0.20"/>
+<rect x="100" y="140" width="230" height="176" rx="10" fill="#D4A017" opacity="0.28"/>
+
+<!-- main plot panel -->
+<rect x="88" y="152" width="230" height="176" rx="10" fill="#FFFFFF" stroke="#1D3557" stroke-width="3"/>
+
+<!-- axes ticks -->
+<line x1="88" y1="328" x2="318" y2="328" stroke="#1D3557" stroke-width="4"/>
+<line x1="88" y1="152" x2="88" y2="328" stroke="#1D3557" stroke-width="4"/>
+
+<!-- confidence ribbon -->
+<path d="M 108 306 C 155 264, 200 195, 306 172 L 306 200 C 210 222, 165 282, 108 324 Z" fill="#9E2A2B" opacity="0.18"/>
+
+<!-- trend line -->
+<path d="M 108 316 C 155 272, 200 208, 306 188" fill="none" stroke="#9E2A2B" stroke-width="6" stroke-linecap="round"/>
+
+<!-- scatter points, color-coded groups -->
+<circle cx="112" cy="300" r="9" fill="#1D3557"/>
+<circle cx="140" cy="272" r="9" fill="#D4A017"/>
+<circle cx="130" cy="310" r="9" fill="#2A6041"/>
+<circle cx="168" cy="248" r="9" fill="#1D3557"/>
+<circle cx="190" cy="286" r="9" fill="#D4A017"/>
+<circle cx="206" cy="232" r="9" fill="#2A6041"/>
+<circle cx="228" cy="210" r="9" fill="#1D3557"/>
+<circle cx="250" cy="256" r="9" fill="#D4A017"/>
+<circle cx="266" cy="200" r="9" fill="#2A6041"/>
+<circle cx="290" cy="182" r="9" fill="#1D3557"/>
+<circle cx="296" cy="222" r="9" fill="#D4A017"/>
+
+<!-- small legend chips -->
+<g transform="translate(358,208)">
+  <circle cx="0" cy="0" r="9" fill="#1D3557"/>
+  <circle cx="0" cy="32" r="9" fill="#D4A017"/>
+  <circle cx="0" cy="64" r="9" fill="#2A6041"/>
+</g>
+
+</svg>

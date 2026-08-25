@@ -2,7 +2,7 @@
 title: "Vectors and Matrices"
 description: "Work with vectors and matrices, the building blocks of R's data structures."
 image: "/images/module-icons/vectors_matrices.svg"
-order: 3
+order: 5
 ---
 
 ```{=html}

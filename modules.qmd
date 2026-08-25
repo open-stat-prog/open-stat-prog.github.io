@@ -8,3 +8,15 @@ listing:
   sort: "order asc"
   fields: [image, title, description]
 ---
+
+::: {.callout-note appearance="simple" icon="false"}
+## How the modules work
+
+Most modules follow the same four-step structure:
+
+1. **Do** — you carry out a small task or exercise in R.
+2. **See** — you observe and inspect the result of what you did.
+3. **Predict** — before moving on, you make a prediction about what will happen in a new, related case.
+4. **Explain** — you explain *why* it happened, connecting the result back to the underlying concept.
+
+:::

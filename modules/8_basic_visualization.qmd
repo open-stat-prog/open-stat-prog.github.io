@@ -2,7 +2,7 @@
 title: "Basic Visualization"
 description: "Create your first plots and charts with Base R graphics."
 image: "/images/module-icons/basic_visualization.svg"
-order: 6
+order: 8
 ---
 
 ```{=html}

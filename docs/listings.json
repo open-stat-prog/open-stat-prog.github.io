@@ -3,17 +3,21 @@
     "listing": "/modules.html",
     "items": [
       "/modules/1_software_setup.html",
-      "/modules/2_first_steps.html",
-      "/modules/3_vectors_matrices.html",
-      "/modules/4_lists_dataframes.html",
-      "/modules/5_factors.html",
-      "/modules/6_basic_visualization.html",
-      "/modules/7_pipes.html",
-      "/modules/8_descriptive_statistics.html",
-      "/modules/9_reproducible_reporting.html",
-      "/modules/10_external_data.html",
-      "/modules/11_data_manipulation.html",
-      "/modules/12_advanced_functions.html"
+      "/modules/2_commands.html",
+      "/modules/3_functions.html",
+      "/modules/4_packages_documentation.html",
+      "/modules/5_vectors_matrices.html",
+      "/modules/6_lists_dataframes.html",
+      "/modules/7_factors.html",
+      "/modules/8_basic_visualization.html",
+      "/modules/9_pipes.html",
+      "/modules/10_descriptive_statistics.html",
+      "/modules/11_workflow.html",
+      "/modules/12_reproducible_reporting.html",
+      "/modules/13_external_data.html",
+      "/modules/14_data_manipulation.html",
+      "/modules/15_ggplot_viusalizations.html",
+      "/modules/16_advanced_functions.html"
     ]
   },
   {

@@ -4,35 +4,63 @@
     "href": "modules.html",
     "title": "Modules",
     "section": "",
-    "text": "Software setup\n\n\nInstall R and RStudio and get comfortable with the interface.\n\n\n\n\n\n\n\n\n\n\n\n\nFirst steps\n\n\nTake your first steps with the basics of R programming.\n\n\n\n\n\n\n\n\n\n\n\n\nVectors and Matrices\n\n\nWork with vectors and matrices, the building blocks of R’s data structures.\n\n\n\n\n\n\n\n\n\n\n\n\nLists and Dataframes\n\n\nStore and organize your data using lists and dataframes.\n\n\n\n\n\n\n\n\n\n\n\n\nFactors\n\n\nRepresent categorical data in R using factors.\n\n\n\n\n\n\n\n\n\n\n\n\nBasic Visualization\n\n\nCreate your first plots and charts with Base R graphics.\n\n\n\n\n\n\n\n\n\n\n\n\nPipes\n\n\nCompose functions cleanly using pipe operators.\n\n\n\n\n\n\n\n\n\n\n\n\nDescriptive Statistics\n\n\nSummarize your data using descriptive statistics.\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible reporting\n\n\nWrite reproducible reports and documents with Quarto.\n\n\n\n\n\n\n\n\n\n\n\n\nExternal Data\n\n\nImport external datasets into R.\n\n\n\n\n\n\n\n\n\n\n\n\nData Manipulation\n\n\nFilter, sort, and reshape your data to get it ready for analysis.\n\n\n\n\n\n\n\n\n\n\n\n\nAdvanced Functions\n\n\nWrite your own functions to make your R code reusable.\n\n\n\n\n\nNo matching items"
+    "text": "How the modules work\n\n\n\nMost modules follow the same four-step structure:\n\nDo — you carry out a small task or exercise in R.\nSee — you observe and inspect the result of what you did.\nPredict — before moving on, you make a prediction about what will happen in a new, related case.\nExplain — you explain why it happened, connecting the result back to the underlying concept.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoftware setup\n\n\nInstall R and RStudio and get comfortable with the interface.\n\n\n\n\n\n\n\n\n\n\n\n\nCommands\n\n\nLearn to write and run your first commands in the R console.\n\n\n\n\n\n\n\n\n\n\n\n\nFunctions\n\n\nLearn how to define and call your own functions in R.\n\n\n\n\n\n\n\n\n\n\n\n\nPackages and Documentation\n\n\nLearn how to install, load, and get help with R packages.\n\n\n\n\n\n\n\n\n\n\n\n\nVectors and Matrices\n\n\nWork with vectors and matrices, the building blocks of R’s data structures.\n\n\n\n\n\n\n\n\n\n\n\n\nLists and Dataframes\n\n\nStore and organize your data using lists and dataframes.\n\n\n\n\n\n\n\n\n\n\n\n\nFactors\n\n\nRepresent categorical data in R using factors.\n\n\n\n\n\n\n\n\n\n\n\n\nBasic Visualization\n\n\nCreate your first plots and charts with Base R graphics.\n\n\n\n\n\n\n\n\n\n\n\n\nPipes\n\n\nCompose functions cleanly using pipe operators.\n\n\n\n\n\n\n\n\n\n\n\n\nDescriptive Statistics\n\n\nSummarize your data using descriptive statistics.\n\n\n\n\n\n\n\n\n\n\n\n\nWorkflow\n\n\nLearn how to structure an efficient, repeatable workflow for your R projects.\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible reporting\n\n\nWrite reproducible reports and documents with Quarto.\n\n\n\n\n\n\n\n\n\n\n\n\nExternal Data\n\n\nImport external datasets into R.\n\n\n\n\n\n\n\n\n\n\n\n\nData Manipulation\n\n\nFilter, sort, and reshape your data to get it ready for analysis.\n\n\n\n\n\n\n\n\n\n\n\n\nGGplot visualizations\n\n\nLearn how to create layered, publication-ready plots with ggplot2.\n\n\n\n\n\n\n\n\n\n\n\n\nAdvanced Functions\n\n\nWrite your own functions to make your R code reusable.\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "modules/3_data_types.html",
-    "href": "modules/3_data_types.html",
-    "title": "3 Data Types",
+    "objectID": "modules/15_ggplot_viusalizations.html",
+    "href": "modules/15_ggplot_viusalizations.html",
+    "title": "GGplot visualizations",
+    "section": "",
+    "text": "In this module, you will learn how to create layered, publication-ready plots with ggplot2.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/2_commands.html",
+    "href": "modules/2_commands.html",
+    "title": "Commands",
+    "section": "",
+    "text": "In this module, you will take the first steps in your R programming journey by learning how to write and run your first commands in the R console.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/11_workflow.html",
+    "href": "modules/11_workflow.html",
+    "title": "Workflow",
+    "section": "",
+    "text": "In this module, you will learn how to structure an efficient, repeatable workflow for your R projects.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/9_pipes.html",
+    "href": "modules/9_pipes.html",
+    "title": "Pipes",
+    "section": "",
+    "text": "In this module, you will learn about composing functions with pipe operators.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/3_functions.html",
+    "href": "modules/3_functions.html",
+    "title": "Functions",
+    "section": "",
+    "text": "In this module, you will take the first steps in your R programming journey by learning how to define and call your own functions in R.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/7_factors.html",
+    "href": "modules/7_factors.html",
+    "title": "Factors",
     "section": "",
     "text": "In this module, you will learn about several of the most useful R data types.\nIf you are not automatically redirected, click here."
   },
   {
-    "objectID": "modules/4_reproducible_reporting.html",
-    "href": "modules/4_reproducible_reporting.html",
-    "title": "4 Reproducible reporting",
+    "objectID": "modules/16_advanced_functions.html",
+    "href": "modules/16_advanced_functions.html",
+    "title": "Advanced Functions",
     "section": "",
-    "text": "In this module, you will learn how to report your work in a reproducible way using Quarto.\nIf you are not automatically redirected, click here."
+    "text": "In this module, you will lean how to write your own functions to make your R code reusable.\nIf you are not automatically redirected, click here."
   },
   {
-    "objectID": "modules/1_software_setup.html",
-    "href": "modules/1_software_setup.html",
-    "title": "Software setup",
+    "objectID": "modules/10_descriptive_statistics.html",
+    "href": "modules/10_descriptive_statistics.html",
+    "title": "Descriptive Statistics",
     "section": "",
-    "text": "This tutorial covers the very first steps you need to perform in order to start working with R and Rstudio. We cover how to install both programs and give you a tour of RStudio and provide you with some recommendations for settings.\nIf you are not automatically redirected, click here."
-  },
-  {
-    "objectID": "modules/2_first_steps.html",
-    "href": "modules/2_first_steps.html",
-    "title": "First steps",
-    "section": "",
-    "text": "In this module, you will take the first steps in your R programming journey by learning the basics of R usage.\nIf you are not automatically redirected, click here."
+    "text": "In this module, you will learn how to calculate summary statistics using R.\nIf you are not automatically redirected, click here."
   },
   {
     "objectID": "team/5_Paolo.html",
@@ -63,6 +91,13 @@
     "text": "On this website you can find open-source R learning modules on topics ranging from “How to install R?” up to topics such as “How to write a function in R?” and beyond. The modules you can find on this website are gradually increasing in difficulty and are used in several courses taught by the Methods & Statistics and Sociology Departments of the Faculty of Social and Behavioral Sciences at Utrecht University. The modules are actively maintained for these courses.\nFeel free to make use of these modules to learn about statistical programming in R, or to integrate them into your courses as an instructor. We also welcome developers to contribute new learning modules for this website.\n\nStatement on the use of AI\nThe content and structure of the R modules were designed by the teaching staff. Generative AI (Claude) has been used to help implement feedback and improve the modules. All AI-assisted changes have been reviewed and checked by a human author before publication."
   },
   {
+    "objectID": "team/6_Sibel.html",
+    "href": "team/6_Sibel.html",
+    "title": "Sibel Telli",
+    "section": "",
+    "text": "Educational Consultant\nProfile page"
+  },
+  {
     "objectID": "team/1_Laura.html",
     "href": "team/1_Laura.html",
     "title": "Laura Boeschoten",
@@ -84,93 +119,58 @@
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
-    "objectID": "modules/7_pipes.html",
-    "href": "modules/7_pipes.html",
-    "title": "Pipes",
-    "section": "",
-    "text": "In this module, you will learn about composing functions with pipe operators.\nIf you are not automatically redirected, click here."
-  },
-  {
-    "objectID": "modules/6_external_data.html",
-    "href": "modules/6_external_data.html",
-    "title": "6 External Data",
-    "section": "",
-    "text": "In this module, you will learn about loading external datasets into R.\nIf you are not automatically redirected, click here."
-  },
-  {
-    "objectID": "modules/8_descriptive_statistics.html",
-    "href": "modules/8_descriptive_statistics.html",
-    "title": "Descriptive Statistics",
-    "section": "",
-    "text": "In this module, you will learn how to calculate summary statistics using R.\nIf you are not automatically redirected, click here."
-  },
-  {
-    "objectID": "modules/5_basic_visualization.html",
-    "href": "modules/5_basic_visualization.html",
-    "title": "5 Basic Visualization",
-    "section": "",
-    "text": "In this module, you will learn about basic data visualization using Base R graphics.\nIf you are not automatically redirected, click here."
-  },
-  {
-    "objectID": "team/6_Sibel.html",
-    "href": "team/6_Sibel.html",
-    "title": "Sibel Telli",
-    "section": "",
-    "text": "Educational Consultant\nProfile page"
-  },
-  {
-    "objectID": "modules/11_data_manipulation.html",
-    "href": "modules/11_data_manipulation.html",
+    "objectID": "modules/14_data_manipulation.html",
+    "href": "modules/14_data_manipulation.html",
     "title": "Data Manipulation",
     "section": "",
     "text": "In this module, you will learn about loading external datasets into R.\nIf you are not automatically redirected, click here."
   },
   {
-    "objectID": "modules/9_reproducible_reporting.html",
-    "href": "modules/9_reproducible_reporting.html",
-    "title": "Reproducible reporting",
-    "section": "",
-    "text": "In this module, you will learn how to report your work in a reproducible way using Quarto.\nIf you are not automatically redirected, click here."
-  },
-  {
-    "objectID": "modules/4_lists_dataframes.html",
-    "href": "modules/4_lists_dataframes.html",
-    "title": "Lists and Dataframes",
-    "section": "",
-    "text": "In this module, you will learn about several of the most useful R data types.\nIf you are not automatically redirected, click here."
-  },
-  {
-    "objectID": "modules/3_vectors_matrices.html",
-    "href": "modules/3_vectors_matrices.html",
-    "title": "Vectors and Matrices",
-    "section": "",
-    "text": "In this module, you will learn about several of the most useful R data types.\nIf you are not automatically redirected, click here."
-  },
-  {
-    "objectID": "modules/12_advanced_functions.html",
-    "href": "modules/12_advanced_functions.html",
-    "title": "Advanced Functions",
-    "section": "",
-    "text": "In this module, you will learn about loading external datasets into R.\nIf you are not automatically redirected, click here."
-  },
-  {
-    "objectID": "modules/10_external_data.html",
-    "href": "modules/10_external_data.html",
-    "title": "External Data",
-    "section": "",
-    "text": "In this module, you will learn about loading external datasets into R.\nIf you are not automatically redirected, click here."
-  },
-  {
-    "objectID": "modules/6_basic_visualization.html",
-    "href": "modules/6_basic_visualization.html",
+    "objectID": "modules/8_basic_visualization.html",
+    "href": "modules/8_basic_visualization.html",
     "title": "Basic Visualization",
     "section": "",
     "text": "In this module, you will learn about basic data visualization using Base R graphics.\nIf you are not automatically redirected, click here."
   },
   {
-    "objectID": "modules/5_factors.html",
-    "href": "modules/5_factors.html",
-    "title": "Factors",
+    "objectID": "modules/4_packages_documentation.html",
+    "href": "modules/4_packages_documentation.html",
+    "title": "Packages and Documentation",
+    "section": "",
+    "text": "In this module, you will take the first steps in your R programming journey by learning how to install, load, and get help with R packages.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/13_external_data.html",
+    "href": "modules/13_external_data.html",
+    "title": "External Data",
+    "section": "",
+    "text": "In this module, you will learn about loading external datasets into R.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/1_software_setup.html",
+    "href": "modules/1_software_setup.html",
+    "title": "Software setup",
+    "section": "",
+    "text": "This tutorial covers the very first steps you need to perform in order to start working with R and Rstudio. We cover how to install both programs and give you a tour of RStudio and provide you with some recommendations for settings.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/6_lists_dataframes.html",
+    "href": "modules/6_lists_dataframes.html",
+    "title": "Lists and Dataframes",
+    "section": "",
+    "text": "In this module, you will learn about several of the most useful R data types.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/12_reproducible_reporting.html",
+    "href": "modules/12_reproducible_reporting.html",
+    "title": "Reproducible reporting",
+    "section": "",
+    "text": "In this module, you will learn how to report your work in a reproducible way using Quarto.\nIf you are not automatically redirected, click here."
+  },
+  {
+    "objectID": "modules/5_vectors_matrices.html",
+    "href": "modules/5_vectors_matrices.html",
+    "title": "Vectors and Matrices",
     "section": "",
     "text": "In this module, you will learn about several of the most useful R data types.\nIf you are not automatically redirected, click here."
   }

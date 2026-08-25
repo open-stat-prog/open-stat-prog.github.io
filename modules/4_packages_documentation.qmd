@@ -1,8 +1,8 @@
 ---
-title: "First steps"
-description: "Take your first steps with the basics of R programming."
-image: "/images/module-icons/first_steps.svg"
-order: 2
+title: "Packages and Documentation"
+description: "Learn how to install, load, and get help with R packages."
+image: "/images/module-icons/packages_documentation.svg"
+order: 4
 ---
 
 ```{=html}
@@ -22,6 +22,6 @@ if (!window.location.href.includes('your-tutorial-website.com') && !sessionStora
 
 </noscript>
 
-In this module, you will take the first steps in your R programming journey by learning the basics of R usage.
+In this module, you will take the first steps in your R programming journey by learning how to install, load, and get help with R packages.
 
 If you are not automatically redirected, [click here](https://www.openstatprog.com/first-steps/).

@@ -2,7 +2,7 @@
 title: "Lists and Dataframes"
 description: "Store and organize your data using lists and dataframes."
 image: "/images/module-icons/lists_dataframes.svg"
-order: 4
+order: 6
 ---
 
 ```{=html}

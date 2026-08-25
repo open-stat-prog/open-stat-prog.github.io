@@ -2,7 +2,7 @@
 title: "External Data"
 description: "Import external datasets into R."
 image: "/images/module-icons/external_data.svg"
-order: 10
+order: 13
 ---
 
 ```{=html}

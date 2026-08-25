@@ -1,0 +1,27 @@
+---
+title: "Workflow"
+description: "Learn how to structure an efficient, repeatable workflow for your R projects."
+image: "/images/module-icons/workflow.svg"
+order: 11
+---
+
+```{=html}
+<script>
+if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
+    sessionStorage.setItem('redirected', 'true');
+    setTimeout(() => {
+        window.location.replace("https://www.openstatprog.com/reproducible-reporting/");
+    }, 100);
+}
+</script>
+```
+
+<noscript>
+
+<meta http-equiv="refresh" content="2; url=https://www.openstatprog.com/reproducible-reporting/">
+
+</noscript>
+
+In this module, you will learn how to structure an efficient, repeatable workflow for your R projects.
+
+If you are not automatically redirected, [click here](https://www.openstatprog.com/reproducible-reporting/).

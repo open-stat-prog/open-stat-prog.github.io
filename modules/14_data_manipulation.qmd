@@ -2,7 +2,7 @@
 title: "Data Manipulation"
 description: "Filter, sort, and reshape your data to get it ready for analysis."
 image: "/images/module-icons/data_manipulation.svg"
-order: 11
+order: 14
 ---
 
 ```{=html}

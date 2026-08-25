@@ -2,7 +2,7 @@
 title: "Reproducible reporting"
 description: "Write reproducible reports and documents with Quarto."
 image: "/images/module-icons/reproducible_reporting.svg"
-order: 9
+order: 12
 ---
 
 ```{=html}

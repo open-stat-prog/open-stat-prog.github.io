@@ -1,0 +1,38 @@
+<svg width="480" height="480" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Workflow</title>
+<desc>A circular gold ring connecting four navy step nodes for writing, running, checking, and revising work, forming an iterative workflow loop, on a cream card with a gold border.</desc>
+
+<rect x="8" y="8" width="464" height="464" rx="40" fill="#FBF6E9" stroke="#D4A017" stroke-width="3"/>
+
+<!-- circular flow ring -->
+<circle cx="240" cy="230" r="108" fill="none" stroke="#D4A017" stroke-width="10" stroke-linecap="round" stroke-dasharray="8 18"/>
+<polygon points="240,110 226,134 254,134" fill="#D4A017"/>
+
+<!-- node: write (top) -->
+<g transform="translate(240,122)">
+  <circle r="34" fill="#1D3557"/>
+  <line x1="-14" y1="-10" x2="14" y2="-10" stroke="#FBF6E9" stroke-width="5"/>
+  <line x1="-14" y1="2" x2="14" y2="2" stroke="#FBF6E9" stroke-width="5"/>
+  <line x1="-14" y1="14" x2="6" y2="14" stroke="#FBF6E9" stroke-width="5"/>
+</g>
+
+<!-- node: run (right) -->
+<g transform="translate(348,230)">
+  <circle r="34" fill="#1D3557"/>
+  <polygon points="-10,-15 -10,15 16,0" fill="#D4A017"/>
+</g>
+
+<!-- node: check (bottom) -->
+<g transform="translate(240,338)">
+  <circle r="34" fill="#1D3557"/>
+  <path d="M -14 0 L -4 11 L 16 -12" fill="none" stroke="#2A6041" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+
+<!-- node: revise (left) -->
+<g transform="translate(132,230)">
+  <circle r="34" fill="#1D3557"/>
+  <path d="M -12 -10 A 16 16 0 1 1 -12 10" fill="none" stroke="#9E2A2B" stroke-width="6" stroke-linecap="round"/>
+  <polygon points="-18,-16 -6,-10 -14,2" fill="#9E2A2B"/>
+</g>
+
+</svg>

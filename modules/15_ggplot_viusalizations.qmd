@@ -1,0 +1,27 @@
+---
+title: "GGplot visualizations"
+description: "Learn how to create layered, publication-ready plots with ggplot2."
+image: "/images/module-icons/ggplot_visualizations.svg"
+order: 15
+---
+
+```{=html}
+<script>
+if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
+    sessionStorage.setItem('redirected', 'true');
+    setTimeout(() => {
+        window.location.replace("https://openstatprog.com/ggplot_visualizations/");
+    }, 100);
+}
+</script>
+```
+
+<noscript>
+
+<meta http-equiv="refresh" content="2; url=https://openstatprog.com/ggplot_visualizations/">
+
+</noscript>
+
+In this module, you will learn how to create layered, publication-ready plots with ggplot2.
+
+If you are not automatically redirected, [click here](https://openstatprog.com/ggplot_visualizations/).

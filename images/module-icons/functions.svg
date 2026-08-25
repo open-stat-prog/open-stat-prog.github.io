@@ -1,0 +1,27 @@
+<svg width="480" height="480" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Functions</title>
+<desc>A code snippet card showing the word function in gold, parentheses and braces in navy, and two colored body lines representing a function definition, on a cream card with a gold border.</desc>
+
+<rect x="8" y="8" width="464" height="464" rx="40" fill="#FBF6E9" stroke="#D4A017" stroke-width="3"/>
+
+<!-- code panel -->
+<rect x="90" y="126" width="300" height="228" rx="14" fill="#FFFFFF" stroke="#1D3557" stroke-width="3"/>
+
+<!-- line 1: function(x) { -->
+<text x="112" y="174" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#D4A017">function</text>
+<text x="238" y="174" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#1D3557">(x) {</text>
+
+<!-- body line 1 -->
+<rect x="134" y="196" width="150" height="16" rx="5" fill="#2A6041" opacity="0.85"/>
+
+<!-- body line 2 -->
+<rect x="134" y="228" width="110" height="16" rx="5" fill="#9E2A2B" opacity="0.85"/>
+
+<!-- return line -->
+<text x="134" y="270" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1D3557">return</text>
+<rect x="240" y="256" width="70" height="16" rx="5" fill="#D4A017"/>
+
+<!-- closing brace -->
+<text x="112" y="316" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#1D3557">}</text>
+
+</svg>

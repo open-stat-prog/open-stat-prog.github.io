@@ -2,7 +2,7 @@
 title: "Advanced Functions"
 description: "Write your own functions to make your R code reusable."
 image: "/images/module-icons/advanced_functions.svg"
-order: 12
+order: 16
 ---
 
 ```{=html}
@@ -22,6 +22,6 @@ if (!window.location.href.includes('your-tutorial-website.com') && !sessionStora
 
 </noscript>
 
-In this module, you will learn about loading external datasets into R.
+In this module, you will lean how to write your own functions to make your R code reusable.
 
 If you are not automatically redirected, [click here](https://openstatprog.com/advanced-functions-new/).

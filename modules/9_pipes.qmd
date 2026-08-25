@@ -2,7 +2,7 @@
 title: "Pipes"
 description: "Compose functions cleanly using pipe operators."
 image: "/images/module-icons/pipes.svg"
-order: 7
+order: 9
 ---
 
 ```{=html}

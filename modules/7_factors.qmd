@@ -2,7 +2,7 @@
 title: "Factors"
 description: "Represent categorical data in R using factors."
 image: "/images/module-icons/factors.svg"
-order: 5
+order: 7
 ---
 
 ```{=html}
