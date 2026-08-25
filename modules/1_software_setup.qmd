@@ -8,7 +8,7 @@ order: 1
 
 ```{=html}
 <script>
-if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
+if (!window.location.href.includes('openstatprog.com') && !sessionStorage.getItem('redirected')) {
     sessionStorage.setItem('redirected', 'true');
     setTimeout(() => {
         window.location.replace("https://www.openstatprog.com/software-setup/");
