@@ -1,5 +1,5 @@
 ---
-title: "Commands"
+title: "Basics"
 description: "Learn to write and run your first commands in the R console."
 image: "/images/module-icons/commands.svg"
 order: 2
@@ -10,7 +10,7 @@ order: 2
 if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
     sessionStorage.setItem('redirected', 'true');
     setTimeout(() => {
-        window.location.replace("https://www.openstatprog.com/first-steps/");
+        window.location.replace("https://www.openstatprog.com/basics/");
     }, 100);
 }
 </script>
@@ -18,10 +18,10 @@ if (!window.location.href.includes('your-tutorial-website.com') && !sessionStora
 
 <noscript>
 
-<meta http-equiv="refresh" content="2; url=https://www.openstatprog.com/first-steps/">
+<meta http-equiv="refresh" content="2; url=https://www.openstatprog.com/basics/">
 
 </noscript>
 
 In this module, you will take the first steps in your R programming journey by learning how to write and run your first commands in the R console.
 
-If you are not automatically redirected, [click here](https://www.openstatprog.com/first-steps/).
+If you are not automatically redirected, [click here](https://www.openstatprog.com/basics/).
