@@ -10,7 +10,7 @@ order: 3
 if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
     sessionStorage.setItem('redirected', 'true');
     setTimeout(() => {
-        window.location.replace("https://www.openstatprog.com/first-steps/");
+        window.location.replace("https://www.openstatprog.com/functions/");
     }, 100);
 }
 </script>
@@ -18,10 +18,10 @@ if (!window.location.href.includes('your-tutorial-website.com') && !sessionStora
 
 <noscript>
 
-<meta http-equiv="refresh" content="2; url=https://www.openstatprog.com/first-steps/">
+<meta http-equiv="refresh" content="2; url=https://www.openstatprog.com/functions/">
 
 </noscript>
 
 In this module, you will take the first steps in your R programming journey by learning how to define and call your own functions in R.
 
-If you are not automatically redirected, [click here](https://www.openstatprog.com/first-steps/).
+If you are not automatically redirected, [click here](https://www.openstatprog.com/functions/).

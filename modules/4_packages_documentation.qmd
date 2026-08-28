@@ -10,7 +10,7 @@ order: 4
 if (!window.location.href.includes('your-tutorial-website.com') && !sessionStorage.getItem('redirected')) {
     sessionStorage.setItem('redirected', 'true');
     setTimeout(() => {
-        window.location.replace("https://www.openstatprog.com/first-steps/");
+        window.location.replace("https://openstatprog.com/packages/");
     }, 100);
 }
 </script>
@@ -18,10 +18,10 @@ if (!window.location.href.includes('your-tutorial-website.com') && !sessionStora
 
 <noscript>
 
-<meta http-equiv="refresh" content="2; url=https://www.openstatprog.com/first-steps/">
+<meta http-equiv="refresh" content="2; url=https://openstatprog.com/packages/">
 
 </noscript>
 
 In this module, you will take the first steps in your R programming journey by learning how to install, load, and get help with R packages.
 
-If you are not automatically redirected, [click here](https://www.openstatprog.com/first-steps/).
+If you are not automatically redirected, [click here](https://openstatprog.com/packages/).
